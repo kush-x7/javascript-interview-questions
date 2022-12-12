@@ -8,445 +8,445 @@ By -> [@SudheerJonna](https://twitter.com/SudheerJonna)
 
 | No. | Questions                                                                                                                                                     | Revised                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1   | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript)                                     | <input type="checkbox" /> |
-| 2   | [What is prototype chain](#what-is-a-prototype-chain)                                                                                                         | <input type="checkbox" /> |
-| 3   | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)                                                    | <input type="checkbox" /> |
-| 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                             | <input type="checkbox" /> |
-| 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                               | <input type="checkbox" /> |
-| 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                             | <input type="checkbox" /> |
-| 7   | [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                           | <input type="checkbox" /> |
-| 8   | [How do you compare Object and Map](#how-do-you-compare-object-and-map)                                                                                       | <input type="checkbox" /> |
-| 9   | [What is the difference between == and === operators](#what-is-the-difference-between--and--operators)                                                        | <input type="checkbox" /> |
-| 10  | [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                     | <input type="checkbox" /> |
-| 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                             | <input type="checkbox" /> |
-| 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                             | <input type="checkbox" /> |
-| 13  | [What is a higher order function](#what-is-a-higher-order-function)                                                                                           | <input type="checkbox" /> |
-| 14  | [What is a unary function](#what-is-a-unary-function)                                                                                                         | <input type="checkbox" /> |
-| 15  | [What is the currying function](#what-is-the-currying-function)                                                                                               | <input type="checkbox" /> |
-| 16  | [What is a pure function](#what-is-a-pure-function)                                                                                                           | <input type="checkbox" /> |
-| 17  | [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword)                                                                             | <input type="checkbox" /> |
-| 18  | [What is the difference between let and var](#what-is-the-difference-between-let-and-var)                                                                     | <input type="checkbox" /> |
-| 19  | [What is the reason to choose the name let as a keyword](#what-is-the-reason-to-choose-the-name-let-as-a-keyword)                                             | <input type="checkbox" /> |
-| 20  | [How do you redeclare variables in switch block without an error](#how-do-you-redeclare-variables-in-switch-block-without-an-error)                           | <input type="checkbox" /> |
-| 21  | [What is the Temporal Dead Zone](#what-is-the-temporal-dead-zone)                                                                                             | <input type="checkbox" /> |
-| 22  | [What is IIFE(Immediately Invoked Function Expression)](#what-is-iifeimmediately-invoked-function-expression)                                                 | <input type="checkbox" /> |
-| 23  | [How do you decode or encode a URL in JavaScript?](#how-do-you-decode-or-encode-a-url-in-javascript)                                                          | <input type="checkbox" /> |
-| 24  | [What is memoization](#what-is-memoization)                                                                                                                   | <input type="checkbox" /> |
-| 25  | [What is Hoisting](#what-is-hoisting)                                                                                                                         | <input type="checkbox" /> |
-| 26  | [What are classes in ES6](#what-are-classes-in-es6)                                                                                                           | <input type="checkbox" /> |
-| 27  | [What are closures](#what-are-closures)                                                                                                                       | <input type="checkbox" /> |
-| 28  | [What are modules](#what-are-modules)                                                                                                                         | <input type="checkbox" /> |
-| 29  | [Why do you need modules](#why-do-you-need-modules)                                                                                                           | <input type="checkbox" /> |
-| 30  | [What is scope in javascript](#what-is-scope-in-javascript)                                                                                                   | <input type="checkbox" /> |
-| 31  | [What is a service worker](#what-is-a-service-worker)                                                                                                         | <input type="checkbox" /> |
-| 32  | [How do you manipulate DOM using a service worker](#how-do-you-manipulate-dom-using-a-service-worker)                                                         | <input type="checkbox" /> |
-| 33  | [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)                                   | <input type="checkbox" /> |
-| 34  | [What is IndexedDB](#what-is-indexeddb)                                                                                                                       | <input type="checkbox" /> |
-| 35  | [What is web storage](#what-is-web-storage)                                                                                                                   | <input type="checkbox" /> |
-| 36  | [What is a post message](#what-is-a-post-message)                                                                                                             | <input type="checkbox" /> |
-| 37  | [What is a cookie](#what-is-a-cookie)                                                                                                                         | <input type="checkbox" /> |
-| 38  | [Why do you need a Cookie](#why-do-you-need-a-cookie)                                                                                                         | <input type="checkbox" /> |
-| 39  | [What are the options in a cookie](#what-are-the-options-in-a-cookie)                                                                                         | <input type="checkbox" /> |
-| 40  | [How do you delete a cookie](#how-do-you-delete-a-cookie)                                                                                                     | <input type="checkbox" /> |
-| 41  | [What are the differences between cookie, local storage and session storage](#What-are-the-differences-between-cookie-local-storage-and-session-storage)      | <input type="checkbox" /> |
-| 42  | [What is the main difference between localStorage and sessionStorage](#what-is-the-main-difference-between-localstorage-and-sessionstorage)                   | <input type="checkbox" /> |
-| 43  | [How do you access web storage](#how-do-you-access-web-storage)                                                                                               | <input type="checkbox" /> |
-| 44  | [What are the methods available on session storage](#what-are-the-methods-available-on-session-storage)                                                       | <input type="checkbox" /> |
-| 45  | [What is a storage event and its event handler](#what-is-a-storage-event-and-its-event-handler)                                                               | <input type="checkbox" /> |
-| 46  | [Why do you need web storage](#why-do-you-need-web-storage)                                                                                                   | <input type="checkbox" /> |
-| 47  | [How do you check web storage browser support](#how-do-you-check-web-storage-browser-support)                                                                 | <input type="checkbox" /> |
-| 48  | [How do you check web workers browser support](#how-do-you-check-web-workers-browser-support)                                                                 | <input type="checkbox" /> |
-| 49  | [Give an example of a web worker](#give-an-example-of-a-web-worker)                                                                                           | <input type="checkbox" /> |
-| 50  | [What are the restrictions of web workers on DOM](#what-are-the-restrictions-of-web-workers-on-dom)                                                           | <input type="checkbox" /> |
-| 51  | [What is a promise](#what-is-a-promise)                                                                                                                       | <input type="checkbox" /> |
-| 52  | [Why do you need a promise](#why-do-you-need-a-promise)                                                                                                       | <input type="checkbox" /> |
-| 53  | [What are the three states of promise](#what-are-the-three-states-of-promise)                                                                                 | <input type="checkbox" /> |
-| 54  | [What is a callback function](#what-is-a-callback-function)                                                                                                   | <input type="checkbox" /> |
-| 55  | [Why do we need callbacks](#why-do-we-need-callbacks)                                                                                                         | <input type="checkbox" /> |
-| 56  | [What is a callback hell](#what-is-a-callback-hell)                                                                                                           | <input type="checkbox" /> |
-| 57  | [What are server-sent events](#what-are-server-sent-events)                                                                                                   | <input type="checkbox" /> |
-| 58  | [How do you receive server-sent event notifications](#how-do-you-receive-server-sent-event-notifications)                                                     | <input type="checkbox" /> |
-| 59  | [How do you check browser support for server-sent events](#how-do-you-check-browser-support-for-server-sent-events)                                           | <input type="checkbox" /> |
-| 60  | [What are the events available for server sent events](#what-are-the-events-available-for-server-sent-events)                                                 | <input type="checkbox" /> |
-| 61  | [What are the main rules of promise](#what-are-the-main-rules-of-promise)                                                                                     | <input type="checkbox" /> |
-| 62  | [What is callback in callback](#what-is-callback-in-callback)                                                                                                 | <input type="checkbox" /> |
-| 63  | [What is promise chaining](#what-is-promise-chaining)                                                                                                         | <input type="checkbox" /> |
-| 64  | [What is promise.all](#what-is-promiseall)                                                                                                                    | <input type="checkbox" /> |
-| 65  | [What is the purpose of the race method in promise](#what-is-the-purpose-of-the-race-method-in-promise)                                                       | <input type="checkbox" /> |
-| 66  | [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   | <input type="checkbox" /> |
-| 67  | [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   | <input type="checkbox" /> |
-| 68  | [How do you declare strict mode](#how-do-you-declare-strict-mode)                                                                                             | <input type="checkbox" /> |
-| 69  | [What is the purpose of double exclamation](#what-is-the-purpose-of-double-exclamation)                                                                       | <input type="checkbox" /> |
-| 70  | [What is the purpose of the delete operator](#what-is-the-purpose-of-the-delete-operator)                                                                     | <input type="checkbox" /> |
-| 71  | [What is typeof operator](#what-is-typeof-operator)                                                                                                           | <input type="checkbox" /> |
-| 72  | [What is undefined property](#what-is-undefined-property)                                                                                                     | <input type="checkbox" /> |
-| 73  | [What is null value](#what-is-null-value)                                                                                                                     | <input type="checkbox" /> |
-| 74  | [What is the difference between null and undefined](#what-is-the-difference-between-null-and-undefined)                                                       | <input type="checkbox" /> |
-| 75  | [What is eval](#What-is-eval)                                                                                                                                 | <input type="checkbox" /> |
-| 76  | [What is the difference between window and document](#what-is-the-difference-between-window-and-document)                                                     | <input type="checkbox" /> |
-| 77  | [How do you access history in javascript](#how-do-you-access-history-in-javascript)                                                                           | <input type="checkbox" /> |
-| 78  | [How do you detect caps lock key turned on or not](#how-do-you-detect-caps-lock-key-turned-on-or-not)                                                         | <input type="checkbox" /> |
-| 79  | [What is isNaN](#what-is-isnan)                                                                                                                               | <input type="checkbox" /> |
-| 80  | [What are the differences between undeclared and undefined variables](#what-are-the-differences-between-undeclared-and-undefined-variables)                   | <input type="checkbox" /> |
-| 81  | [What are global variables](#what-are-global-variables)                                                                                                       | <input type="checkbox" /> |
-| 82  | [What are the problems with global variables](#what-are-the-problems-with-global-variables)                                                                   | <input type="checkbox" /> |
-| 83  | [What is NaN property](#what-is-nan-property)                                                                                                                 | <input type="checkbox" /> |
-| 84  | [What is the purpose of isFinite function](#what-is-the-purpose-of-isfinite-function)                                                                         | <input type="checkbox" /> |
-| 85  | [What is an event flow](#what-is-an-event-flow)                                                                                                               | <input type="checkbox" /> |
-| 86  | [What is event bubbling](#what-is-event-bubbling)                                                                                                             | <input type="checkbox" /> |
-| 87  | [What is event capturing](#what-is-event-capturing)                                                                                                           | <input type="checkbox" /> |
-| 88  | [How do you submit a form using JavaScript](#how-do-you-submit-a-form-using-javascript)                                                                       | <input type="checkbox" /> |
-| 89  | [How do you find operating system details](#how-do-you-find-operating-system-details)                                                                         | <input type="checkbox" /> |
-| 90  | [What is the difference between document load and DOMContentLoaded events](#what-is-the-difference-between-document-load-and-domcontentloaded-events)         | <input type="checkbox" /> |
-| 91  | [What is the difference between native, host and user objects](#what-is-the-difference-between-native-host-and-user-objects)                                  | <input type="checkbox" /> |
-| 92  | [What are the tools or techniques used for debugging JavaScript code](#what-are-the-tools-or-techniques-used-for-debugging-javascript-code)                   | <input type="checkbox" /> |
-| 93  | [What are the pros and cons of promises over callbacks](#what-are-the-pros-and-cons-of-promises-over-callbacks)                                               | <input type="checkbox" /> |
-| 94  | [What is the difference between an attribute and a property](#what-is-the-difference-between-an-attribute-and-a-property)                                     | <input type="checkbox" /> |
-| 95  | [What is same-origin policy](#what-is-same-origin-policy)                                                                                                     | <input type="checkbox" /> |
-| 96  | [What is the purpose of void 0](#what-is-the-purpose-of-void-0)                                                                                               | <input type="checkbox" /> |
-| 97  | [Is JavaScript a compiled or interpreted language](#is-javascript-a-compiled-or-interpreted-language)                                                         | <input type="checkbox" /> |
-| 98  | [Is JavaScript a case-sensitive language](#is-javascript-a-case-sensitive-language)                                                                           | <input type="checkbox" /> |
-| 99  | [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)                                                       | <input type="checkbox" /> |
-| 100 | [What are events](#what-are-events)                                                                                                                           | <input type="checkbox" /> |
-| 101 | [Who created javascript](#who-created-javascript)                                                                                                             | <input type="checkbox" /> |
-| 102 | [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                         | <input type="checkbox" /> |
-| 103 | [What is the use of stopPropagation method](#what-is-the-use-of-stoppropagation-method)                                                                       | <input type="checkbox" /> |
-| 104 | [What are the steps involved in return false usage](#what-are-the-steps-involved-in-return-false-usage)                                                       | <input type="checkbox" /> |
-| 105 | [What is BOM](#what-is-bom)                                                                                                                                   | <input type="checkbox" /> |
-| 106 | [What is the use of setTimeout](#what-is-the-use-of-settimeout)                                                                                               | <input type="checkbox" /> |
-| 107 | [What is the use of setInterval](#what-is-the-use-of-setinterval)                                                                                             | <input type="checkbox" /> |
-| 108 | [Why is JavaScript treated as Single threaded](#why-is-javascript-treated-as-single-threaded)                                                                 | <input type="checkbox" /> |
-| 109 | [What is an event delegation](#what-is-an-event-delegation)                                                                                                   | <input type="checkbox" /> |
-| 110 | [What is ECMAScript](#what-is-ecmascript)                                                                                                                     | <input type="checkbox" /> |
-| 111 | [What is JSON](#what-is-json)                                                                                                                                 | <input type="checkbox" /> |
-| 112 | [What are the syntax rules of JSON](#what-are-the-syntax-rules-of-json)                                                                                       | <input type="checkbox" /> |
-| 113 | [What is the purpose JSON stringify](#what-is-the-purpose-json-stringify)                                                                                     | <input type="checkbox" /> |
-| 114 | [How do you parse JSON string](#how-do-you-parse-json-string)                                                                                                 | <input type="checkbox" /> |
-| 115 | [Why do you need JSON](#why-do-you-need-json)                                                                                                                 | <input type="checkbox" /> |
-| 116 | [What are PWAs](#what-are-pwas)                                                                                                                               | <input type="checkbox" /> |
-| 117 | [What is the purpose of clearTimeout method](#what-is-the-purpose-of-cleartimeout-method)                                                                     | <input type="checkbox" /> |
-| 118 | [What is the purpose of clearInterval method](#what-is-the-purpose-of-clearinterval-method)                                                                   | <input type="checkbox" /> |
-| 119 | [How do you redirect new page in javascript](#how-do-you-redirect-new-page-in-javascript)                                                                     | <input type="checkbox" /> |
-| 120 | [How do you check whether a string contains a substring](#how-do-you-check-whether-a-string-contains-a-substring)                                             | <input type="checkbox" /> |
-| 121 | [How do you validate an email in javascript](#how-do-you-validate-an-email-in-javascript)                                                                     | <input type="checkbox" /> |
-| 122 | [How do you get the current url with javascript](#how-do-you-get-the-current-url-with-javascript)                                                             | <input type="checkbox" /> |
-| 123 | [What are the various url properties of location object](#what-are-the-various-url-properties-of-location-object)                                             | <input type="checkbox" /> |
-| 124 | [How do get query string values in javascript](#how-do-get-query-string-values-in-javascript)                                                                 | <input type="checkbox" /> |
-| 125 | [How do you check if a key exists in an object](#how-do-you-check-if-a-key-exists-in-an-object)                                                               | <input type="checkbox" /> |
-| 126 | [How do you loop through or enumerate javascript object](#how-do-you-loop-through-or-enumerate-javascript-object)                                             | <input type="checkbox" /> |
-| 127 | [How do you test for an empty object](#how-do-you-test-for-an-empty-object)                                                                                   | <input type="checkbox" /> |
-| 128 | [What is an arguments object](#what-is-an-arguments-object)                                                                                                   | <input type="checkbox" /> |
-| 129 | [How do you make first letter of the string in an uppercase](#how-do-you-make-first-letter-of-the-string-in-an-uppercase)                                     | <input type="checkbox" /> |
-| 130 | [What are the pros and cons of for loop](#what-are-the-pros-and-cons-of-for-loop)                                                                             | <input type="checkbox" /> |
-| 131 | [How do you display the current date in javascript](#how-do-you-display-the-current-date-in-javascript)                                                       | <input type="checkbox" /> |
-| 132 | [How do you compare two date objects](#how-do-you-compare-two-date-objects)                                                                                   | <input type="checkbox" /> |
-| 133 | [How do you check if a string starts with another string](#how-do-you-check-if-a-string-starts-with-another-string)                                           | <input type="checkbox" /> |
-| 134 | [How do you trim a string in javascript](#how-do-you-trim-a-string-in-javascript)                                                                             | <input type="checkbox" /> |
-| 135 | [How do you add a key value pair in javascript](#how-do-you-add-a-key-value-pair-in-javascript)                                                               | <input type="checkbox" /> |
-| 136 | [Is the '!--' notation represents a special operator](#is-the----notation-represents-a-special-operator)                                                      | <input type="checkbox" /> |
-| 137 | [How do you assign default values to variables](#how-do-you-assign-default-values-to-variables)                                                               | <input type="checkbox" /> |
-| 138 | [How do you define multiline strings](#how-do-you-define-multiline-strings)                                                                                   | <input type="checkbox" /> |
-| 139 | [What is an app shell model](#what-is-an-app-shell-model)                                                                                                     | <input type="checkbox" /> |
-| 140 | [Can we define properties for functions](#can-we-define-properties-for-functions)                                                                             | <input type="checkbox" /> |
-| 141 | [What is the way to find the number of parameters expected by a function](#what-is-the-way-to-find-the-number-of-parameters-expected-by-a-function)           | <input type="checkbox" /> |
-| 142 | [What is a polyfill](#what-is-a-polyfill)                                                                                                                     | <input type="checkbox" /> |
-| 143 | [What are break and continue statements](#what-are-break-and-continue-statements)                                                                             | <input type="checkbox" /> |
-| 144 | [What are js labels](#what-are-js-labels)                                                                                                                     | <input type="checkbox" /> |
-| 145 | [What are the benefits of keeping declarations at the top](#what-are-the-benefits-of-keeping-declarations-at-the-top)                                         | <input type="checkbox" /> |
-| 146 | [What are the benefits of initializing variables](#what-are-the-benefits-of-initializing-variables)                                                           | <input type="checkbox" /> |
-| 147 | [What are the recommendations to create new object](#what-are-the-recommendations-to-create-new-object)                                                       | <input type="checkbox" /> |
-| 148 | [How do you define JSON arrays](#how-do-you-define-json-arrays)                                                                                               | <input type="checkbox" /> |
-| 149 | [How do you generate random integers](#how-do-you-generate-random-integers)                                                                                   | <input type="checkbox" /> |
-| 150 | [Can you write a random integers function to print integers with in a range](#can-you-write-a-random-integers-function-to-print-integers-with-in-a-range)     | <input type="checkbox" /> |
-| 151 | [What is tree shaking](#what-is-tree-shaking)                                                                                                                 | <input type="checkbox" /> |
-| 152 | [What is the need of tree shaking](#what-is-the-need-of-tree-shaking)                                                                                         | <input type="checkbox" /> |
-| 153 | [Is it recommended to use eval](#is-it-recommended-to-use-eval)                                                                                               | <input type="checkbox" /> |
-| 154 | [What is a Regular Expression](#what-is-a-regular-expression)                                                                                                 | <input type="checkbox" /> |
-| 155 | [What are the string methods available in Regular expression](#what-are-the-string-methods-available-in-regular-expression)                                   | <input type="checkbox" /> |
-| 156 | [What are modifiers in regular expression](#what-are-modifiers-in-regular-expression)                                                                         | <input type="checkbox" /> |
-| 157 | [What are regular expression patterns](#what-are-regular-expression-patterns)                                                                                 | <input type="checkbox" /> |
-| 158 | [What is a RegExp object](#what-is-a-regexp-object)                                                                                                           | <input type="checkbox" /> |
-| 159 | [How do you search a string for a pattern](#how-do-you-search-a-string-for-a-pattern)                                                                         | <input type="checkbox" /> |
-| 160 | [What is the purpose of exec method](#what-is-the-purpose-of-exec-method)                                                                                     | <input type="checkbox" /> |
-| 161 | [How do you change the style of a HTML element](#how-do-you-change-the-style-of-a-html-element)                                                               | <input type="checkbox" /> |
-| 162 | [What would be the result of 1+2+'3'](#what-would-be-the-result-of-123)                                                                                       | <input type="checkbox" /> |
-| 163 | [What is a debugger statement](#what-is-a-debugger-statement)                                                                                                 | <input type="checkbox" /> |
-| 164 | [What is the purpose of breakpoints in debugging](#what-is-the-purpose-of-breakpoints-in-debugging)                                                           | <input type="checkbox" /> |
-| 165 | [Can I use reserved words as identifiers](#can-i-use-reserved-words-as-identifiers)                                                                           | <input type="checkbox" /> |
-| 166 | [How do you detect a mobile browser](#how-do-you-detect-a-mobile-browser)                                                                                     | <input type="checkbox" /> |
-| 167 | [How do you detect a mobile browser without regexp](#how-do-you-detect-a-mobile-browser-without-regexp)                                                       | <input type="checkbox" /> |
-| 168 | [How do you get the image width and height using JS](#how-do-you-get-the-image-width-and-height-using-js)                                                     | <input type="checkbox" /> |
-| 169 | [How do you make synchronous HTTP request](#how-do-you-make-synchronous-http-request)                                                                         | <input type="checkbox" /> |
-| 170 | [How do you make asynchronous HTTP request](#how-do-you-make-asynchronous-http-request)                                                                       | <input type="checkbox" /> |
-| 171 | [How do you convert date to another timezone in javascript](#how-do-you-convert-date-to-another-timezone-in-javascript)                                       | <input type="checkbox" /> |
-| 172 | [What are the properties used to get size of window](#what-are-the-properties-used-to-get-size-of-window)                                                     | <input type="checkbox" /> |
-| 173 | [What is a conditional operator in javascript](#what-is-a-conditional-operator-in-javascript)                                                                 | <input type="checkbox" /> |
-| 174 | [Can you apply chaining on conditional operator](#Can-you-apply-chaining-on-conditional-operator)                                                             | <input type="checkbox" /> |
-| 175 | [What are the ways to execute javascript after page load](#what-are-the-ways-to-execute-javascript-after-page-load)                                           | <input type="checkbox" /> |
-| 176 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype)                                                     | <input type="checkbox" /> |
-| 177 | [Give an example where do you really need semicolon](#give-an-example-where-do-you-really-need-semicolon)                                                     | <input type="checkbox" /> |
-| 178 | [What is a freeze method](#what-is-a-freeze-method)                                                                                                           | <input type="checkbox" /> |
-| 179 | [What is the purpose of freeze method](#what-is-the-purpose-of-freeze-method)                                                                                 | <input type="checkbox" /> |
-| 180 | [Why do I need to use freeze method](#why-do-i-need-to-use-freeze-method)                                                                                     | <input type="checkbox" /> |
-| 181 | [How do you detect a browser language preference](#how-do-you-detect-a-browser-language-preference)                                                           | <input type="checkbox" /> |
-| 182 | [How to convert string to title case with javascript](#how-to-convert-string-to-title-case-with-javascript)                                                   | <input type="checkbox" /> |
-| 183 | [How do you detect javascript disabled in the page](#how-do-you-detect-javascript-disabled-in-the-page)                                                       | <input type="checkbox" /> |
-| 184 | [What are various operators supported by javascript](#what-are-various-operators-supported-by-javascript)                                                     | <input type="checkbox" /> |
-| 185 | [What is a rest parameter](#what-is-a-rest-parameter)                                                                                                         | <input type="checkbox" /> |
-| 186 | [What happens if you do not use rest parameter as a last argument](#what-happens-if-you-do-not-use-rest-parameter-as-a-last-argument)                         | <input type="checkbox" /> |
-| 187 | [What are the bitwise operators available in javascript](#what-are-the-bitwise-operators-available-in-javascript)                                             | <input type="checkbox" /> |
-| 188 | [What is a spread operator](#what-is-a-spread-operator)                                                                                                       | <input type="checkbox" /> |
-| 189 | [How do you determine whether object is frozen or not](#how-do-you-determine-whether-object-is-frozen-or-not)                                                 | <input type="checkbox" /> |
-| 190 | [How do you determine two values same or not using object](#how-do-you-determine-two-values-same-or-not-using-object)                                         | <input type="checkbox" /> |
-| 191 | [What is the purpose of using object is method](#what-is-the-purpose-of-using-object-is-method)                                                               | <input type="checkbox" /> |
-| 192 | [How do you copy properties from one object to other](#how-do-you-copy-properties-from-one-object-to-other)                                                   | <input type="checkbox" /> |
-| 193 | [What are the applications of assign method](#what-are-the-applications-of-assign-method)                                                                     | <input type="checkbox" /> |
-| 194 | [What is a proxy object](#what-is-a-proxy-object)                                                                                                             | <input type="checkbox" /> |
-| 195 | [What is the purpose of seal method](#what-is-the-purpose-of-seal-method)                                                                                     | <input type="checkbox" /> |
-| 196 | [What are the applications of seal method](#what-are-the-applications-of-seal-method)                                                                         | <input type="checkbox" /> |
-| 197 | [What are the differences between freeze and seal methods](#what-are-the-differences-between-freeze-and-seal-methods)                                         | <input type="checkbox" /> |
-| 198 | [How do you determine if an object is sealed or not](#how-do-you-determine-if-an-object-is-sealed-or-not)                                                     | <input type="checkbox" /> |
-| 199 | [How do you get enumerable key and value pairs](#how-do-you-get-enumerable-key-and-value-pairs)                                                               | <input type="checkbox" /> |
-| 200 | [What is the main difference between Object.values and Object.entries method](#what-is-the-main-difference-between-objectvalues-and-objectentries-method)     | <input type="checkbox" /> |
-| 201 | [How can you get the list of keys of any object](#how-can-you-get-the-list-of-keys-of-any-object)                                                             | <input type="checkbox" /> |
-| 202 | [How do you create an object with prototype](#how-do-you-create-an-object-with-prototype)                                                                     | <input type="checkbox" /> |
-| 203 | [What is a WeakSet](#what-is-a-weakset)                                                                                                                       | <input type="checkbox" /> |
-| 204 | [What are the differences between WeakSet and Set](#what-are-the-differences-between-weakset-and-set)                                                         | <input type="checkbox" /> |
-| 205 | [List down the collection of methods available on WeakSet](#list-down-the-collection-of-methods-available-on-weakset)                                         | <input type="checkbox" /> |
-| 206 | [What is a WeakMap](#what-is-a-weakmap)                                                                                                                       | <input type="checkbox" /> |
-| 207 | [What are the differences between WeakMap and Map](#what-are-the-differences-between-weakmap-and-map)                                                         | <input type="checkbox" /> |
-| 208 | [List down the collection of methods available on WeakMap](#list-down-the-collection-of-methods-available-on-weakmap)                                         | <input type="checkbox" /> |
-| 209 | [What is the purpose of uneval](#what-is-the-purpose-of-uneval)                                                                                               | <input type="checkbox" /> |
-| 210 | [How do you encode an URL](#how-do-you-encode-an-url)                                                                                                         | <input type="checkbox" /> |
-| 211 | [How do you decode an URL](#how-do-you-decode-an-url)                                                                                                         | <input type="checkbox" /> |
-| 212 | [How do you print the contents of web page](#how-do-you-print-the-contents-of-web-page)                                                                       | <input type="checkbox" /> |
-| 213 | [What is the difference between uneval and eval](#what-is-the-difference-between-uneval-and-eval)                                                             | <input type="checkbox" /> |
-| 214 | [What is an anonymous function](#what-is-an-anonymous-function)                                                                                               | <input type="checkbox" /> |
-| 215 | [What is the precedence order between local and global variables](#what-is-the-precedence-order-between-local-and-global-variables)                           | <input type="checkbox" /> |
-| 216 | [What are javascript accessors](#what-are-javascript-accessors)                                                                                               | <input type="checkbox" /> |
-| 217 | [How do you define property on Object constructor](#how-do-you-define-property-on-object-constructor)                                                         | <input type="checkbox" /> |
-| 218 | [What is the difference between get and defineProperty](#what-is-the-difference-between-get-and-defineproperty)                                               | <input type="checkbox" /> |
-| 219 | [What are the advantages of Getters and Setters](#what-are-the-advantages-of-getters-and-setters)                                                             | <input type="checkbox" /> |
-| 220 | [Can I add getters and setters using defineProperty method](#can-i-add-getters-and-setters-using-defineproperty-method)                                       | <input type="checkbox" /> |
-| 221 | [What is the purpose of switch-case](#what-is-the-purpose-of-switch-case)                                                                                     | <input type="checkbox" /> |
-| 222 | [What are the conventions to be followed for the usage of switch case](#what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case)                 | <input type="checkbox" /> |
-| 223 | [What are primitive data types](#what-are-primitive-data-types)                                                                                               | <input type="checkbox" /> |
-| 224 | [What are the different ways to access object properties](#what-are-the-different-ways-to-access-object-properties)                                           | <input type="checkbox" /> |
-| 225 | [What are the function parameter rules](#what-are-the-function-parameter-rules)                                                                               | <input type="checkbox" /> |
-| 226 | [What is an error object](#what-is-an-error-object)                                                                                                           | <input type="checkbox" /> |
-| 227 | [When you get a syntax error](#when-you-get-a-syntax-error)                                                                                                   | <input type="checkbox" /> |
-| 228 | [What are the different error names from error object](#what-are-the-different-error-names-from-error-object)                                                 | <input type="checkbox" /> |
-| 229 | [What are the various statements in error handling](#what-are-the-various-statements-in-error-handling)                                                       | <input type="checkbox" /> |
-| 230 | [What are the two types of loops in javascript](#what-are-the-two-types-of-loops-in-javascript)                                                               | <input type="checkbox" /> |
-| 231 | [What is nodejs](#what-is-nodejs)                                                                                                                             | <input type="checkbox" /> |
-| 232 | [What is an Intl object](#what-is-an-intl-object)                                                                                                             | <input type="checkbox" /> |
-| 233 | [How do you perform language specific date and time formatting](#how-do-you-perform-language-specific-date-and-time-formatting)                               | <input type="checkbox" /> |
-| 234 | [What is an Iterator](#what-is-an-iterator)                                                                                                                   | <input type="checkbox" /> |
-| 235 | [How does synchronous iteration works](#how-does-synchronous-iteration-works)                                                                                 | <input type="checkbox" /> |
-| 236 | [What is an event loop](#what-is-an-event-loop)                                                                                                               | <input type="checkbox" /> |
-| 237 | [What is call stack](#what-is-call-stack)                                                                                                                     | <input type="checkbox" /> |
-| 238 | [What is an event queue](#what-is-an-event-queue)                                                                                                             | <input type="checkbox" /> |
-| 239 | [What is a decorator](#what-is-a-decorator)                                                                                                                   | <input type="checkbox" /> |
-| 240 | [What are the properties of Intl object](#what-are-the-properties-of-intl-object)                                                                             | <input type="checkbox" /> |
-| 241 | [What is an Unary operator](#what-is-an-unary-operator)                                                                                                       | <input type="checkbox" /> |
-| 242 | [How do you sort elements in an array](#how-do-you-sort-elements-in-an-array)                                                                                 | <input type="checkbox" /> |
-| 243 | [What is the purpose of compareFunction while sorting arrays](#what-is-the-purpose-of-comparefunction-while-sorting-arrays)                                   | <input type="checkbox" /> |
-| 244 | [How do you reversing an array](#how-do-you-reversing-an-array)                                                                                               | <input type="checkbox" /> |
-| 245 | [How do you find min and max value in an array](#how-do-you-find-min-and-max-value-in-an-array)                                                               | <input type="checkbox" /> |
-| 246 | [How do you find min and max values without Math functions](#how-do-you-find-min-and-max-values-without-math-functions)                                       | <input type="checkbox" /> |
-| 247 | [What is an empty statement and purpose of it](#what-is-an-empty-statement-and-purpose-of-it)                                                                 | <input type="checkbox" /> |
-| 248 | [How do you get metadata of a module](#how-do-you-get-metadata-of-a-module)                                                                                   | <input type="checkbox" /> |
-| 249 | [What is a comma operator](#what-is-a-comma-operator)                                                                                                         | <input type="checkbox" /> |
-| 250 | [What is the advantage of a comma operator](#what-is-the-advantage-of-a-comma-operator)                                                                       | <input type="checkbox" /> |
-| 251 | [What is typescript](#what-is-typescript)                                                                                                                     | <input type="checkbox" /> |
-| 252 | [What are the differences between javascript and typescript](#what-are-the-differences-between-javascript-and-typescript)                                     | <input type="checkbox" /> |
-| 253 | [What are the advantages of typescript over javascript](#what-are-the-advantages-of-typescript-over-javascript)                                               | <input type="checkbox" /> |
-| 254 | [What is an object initializer](#what-is-an-object-initializer)                                                                                               | <input type="checkbox" /> |
-| 255 | [What is a constructor method](#what-is-a-constructor-method)                                                                                                 | <input type="checkbox" /> |
-| 256 | [What happens if you write constructor more than once in a class](#what-happens-if-you-write-constructor-more-than-once-in-a-class)                           | <input type="checkbox" /> |
-| 257 | [How do you call the constructor of a parent class](#how-do-you-call-the-constructor-of-a-parent-class)                                                       | <input type="checkbox" /> |
-| 258 | [How do you get the prototype of an object](#how-do-you-get-the-prototype-of-an-object)                                                                       | <input type="checkbox" /> |
-| 259 | [What happens If I pass string type for getPrototype method](#what-happens-if-i-pass-string-type-for-getprototype-method)                                     | <input type="checkbox" /> |
-| 260 | [How do you set prototype of one object to another](#how-do-you-set-prototype-of-one-object-to-another)                                                       | <input type="checkbox" /> |
-| 261 | [How do you check whether an object can be extendable or not](#how-do-you-check-whether-an-object-can-be-extendable-or-not)                                   | <input type="checkbox" /> |
-| 262 | [How do you prevent an object to extend](#how-do-you-prevent-an-object-to-extend)                                                                             | <input type="checkbox" /> |
-| 263 | [What are the different ways to make an object non-extensible](#what-are-the-different-ways-to-make-an-object-non-extensible)                                 | <input type="checkbox" /> |
-| 264 | [How do you define multiple properties on an object](#how-do-you-define-multiple-properties-on-an-object)                                                     | <input type="checkbox" /> |
-| 265 | [What is MEAN in javascript](#what-is-mean-in-javascript)                                                                                                     | <input type="checkbox" /> |
-| 266 | [What Is Obfuscation in javascript](#what-is-obfuscation-in-javascript)                                                                                       | <input type="checkbox" /> |
-| 267 | [Why do you need Obfuscation](#why-do-you-need-obfuscation)                                                                                                   | <input type="checkbox" /> |
-| 268 | [What is Minification](#what-is-minification)                                                                                                                 | <input type="checkbox" /> |
-| 269 | [What are the advantages of minification](#what-are-the-advantages-of-minification)                                                                           | <input type="checkbox" /> |
-| 270 | [What are the differences between Obfuscation and Encryption](#what-are-the-differences-between-obfuscation-and-encryption)                                   | <input type="checkbox" /> |
-| 271 | [What are the common tools used for minification](#what-are-the-common-tools-used-for-minification)                                                           | <input type="checkbox" /> |
-| 272 | [How do you perform form validation using javascript](#how-do-you-perform-form-validation-using-javascript)                                                   | <input type="checkbox" /> |
-| 273 | [How do you perform form validation without javascript](#how-do-you-perform-form-validation-without-javascript)                                               | <input type="checkbox" /> |
-| 274 | [What are the DOM methods available for constraint validation](#what-are-the-dom-methods-available-for-constraint-validation)                                 | <input type="checkbox" /> |
-| 275 | [What are the available constraint validation DOM properties](#what-are-the-available-constraint-validation-dom-properties)                                   | <input type="checkbox" /> |
-| 276 | [What are the list of validity properties](#what-are-the-list-of-validity-properties)                                                                         | <input type="checkbox" /> |
-| 277 | [Give an example usage of rangeOverflow property](#give-an-example-usage-of-rangeoverflow-property)                                                           | <input type="checkbox" /> |
-| 278 | [Is enums feature available in javascript](#is-enums-feature-available-in-javascript)                                                                         | <input type="checkbox" /> |
-| 279 | [What is an enum](#What-is-an-enum)                                                                                                                           | <input type="checkbox" /> |
-| 280 | [How do you list all properties of an object](#how-do-you-list-all-properties-of-an-object)                                                                   | <input type="checkbox" /> |
-| 281 | [How do you get property descriptors of an object](#how-do-you-get-property-descriptors-of-an-object)                                                         | <input type="checkbox" /> |
-| 282 | [What are the attributes provided by a property descriptor](#what-are-the-attributes-provided-by-a-property-descriptor)                                       | <input type="checkbox" /> |
-| 283 | [How do you extend classes](#how-do-you-extend-classes)                                                                                                       | <input type="checkbox" /> |
-| 284 | [How do I modify the url without reloading the page](#how-do-i-modify-the-url-without-reloading-the-page)                                                     | <input type="checkbox" /> |
-| 285 | [How do you check whether an array includes a particular value or not](#how-do-you-check-whether-an-array-includes-a-particular-value-or-not)                 | <input type="checkbox" /> |
-| 286 | [How do you compare scalar arrays](#how-do-you-compare-scalar-arrays)                                                                                         | <input type="checkbox" /> |
-| 287 | [How to get the value from get parameters](#how-to-get-the-value-from-get-parameters)                                                                         | <input type="checkbox" /> |
-| 288 | [How do you print numbers with commas as thousand separators](#how-do-you-print-numbers-with-commas-as-thousand-separators)                                   | <input type="checkbox" /> |
-| 289 | [What is the difference between java and javascript](#what-is-the-difference-between-java-and-javascript)                                                     | <input type="checkbox" /> |
-| 290 | [Does javascript supports namespace](#does-javascript-supports-namespace)                                                                                     | <input type="checkbox" /> |
-| 291 | [How do you declare namespace](#how-do-you-declare-namespace)                                                                                                 | <input type="checkbox" /> |
-| 292 | [How do you invoke javascript code in an iframe from parent page](#how-do-you-invoke-javascript-code-in-an-iframe-from-parent-page)                           | <input type="checkbox" /> |
-| 293 | [How do get the timezone offset from date](#how-do-get-the-timezone-offset-from-date)                                                                         | <input type="checkbox" /> |
-| 294 | [How do you load CSS and JS files dynamically](#how-do-you-load-css-and-js-files-dynamically)                                                                 | <input type="checkbox" /> |
-| 295 | [What are the different methods to find HTML elements in DOM](#what-are-the-different-methods-to-find-html-elements-in-dom)                                   | <input type="checkbox" /> |
-| 296 | [What is jQuery](#what-is-jquery)                                                                                                                             | <input type="checkbox" /> |
-| 297 | [What is V8 JavaScript engine](#what-is-v8-javascript-engine)                                                                                                 | <input type="checkbox" /> |
-| 298 | [Why do we call javascript as dynamic language](#why-do-we-call-javascript-as-dynamic-language)                                                               | <input type="checkbox" /> |
-| 299 | [What is a void operator](#what-is-a-void-operator)                                                                                                           | <input type="checkbox" /> |
-| 300 | [How to set the cursor to wait](#how-to-set-the-cursor-to-wait)                                                                                               | <input type="checkbox" /> |
-| 301 | [How do you create an infinite loop](#how-do-you-create-an-infinite-loop)                                                                                     | <input type="checkbox" /> |
-| 302 | [Why do you need to avoid with statement](#why-do-you-need-to-avoid-with-statement)                                                                           | <input type="checkbox" /> |
-| 303 | [What is the output of below for loops](#what-is-the-output-of-below-for-loops)                                                                               | <input type="checkbox" /> |
-| 304 | [List down some of the features of ES6](#list-down-some-of-the-features-of-es6)                                                                               | <input type="checkbox" /> |
-| 305 | [What is ES6](#what-is-es6)                                                                                                                                   | <input type="checkbox" /> |
-| 306 | [Can I redeclare let and const variables](#can-I-redeclare-let-and-const-variables)                                                                           | <input type="checkbox" /> |
-| 307 | [Is const variable makes the value immutable](#is-const-variable-makes-the-value-immutable)                                                                   | <input type="checkbox" /> |
-| 308 | [What are default parameters](#what-are-default-parameters)                                                                                                   | <input type="checkbox" /> |
-| 309 | [What are template literals](#what-are-template-literals)                                                                                                     | <input type="checkbox" /> |
-| 310 | [How do you write multi-line strings in template literals](#how-do-you-write-multi-line-strings-in-template-literals)                                         | <input type="checkbox" /> |
-| 311 | [What are nesting templates](#what-are-nesting-templates)                                                                                                     | <input type="checkbox" /> |
-| 312 | [What are tagged templates](#what-are-tagged-templates)                                                                                                       | <input type="checkbox" /> |
-| 313 | [What are raw strings](#what-are-raw-strings)                                                                                                                 | <input type="checkbox" /> |
-| 314 | [What is destructuring assignment](#what-is-destructuring-assignment)                                                                                         | <input type="checkbox" /> |
-| 315 | [What are default values in destructuring assignment](#what-are-default-values-in-destructuring-assignment)                                                   | <input type="checkbox" /> |
-| 316 | [How do you swap variables in destructuring assignment](#how-do-you-swap-variables-in-destructuring-assignment)                                               | <input type="checkbox" /> |
-| 317 | [What are enhanced object literals](#what-are-enhanced-object-literals)                                                                                       | <input type="checkbox" /> |
-| 318 | [What are dynamic imports](#what-are-dynamic-imports)                                                                                                         | <input type="checkbox" /> |
-| 319 | [What are the use cases for dynamic imports](#what-are-the-use-cases-for-dynamic-imports)                                                                     | <input type="checkbox" /> |
-| 320 | [What are typed arrays](#what-are-typed-arrays)                                                                                                               | <input type="checkbox" /> |
-| 321 | [What are the advantages of module loaders](#what-are-the-advantages-of-module-loaders)                                                                       | <input type="checkbox" /> |
-| 322 | [What is collation](#what-is-collation)                                                                                                                       | <input type="checkbox" /> |
-| 323 | [What is for...of statement](#what-is-forof-statement)                                                                                                        | <input type="checkbox" /> |
-| 324 | [What is the output of below spread operator array](#what-is-the-output-of-below-spread-operator-array)                                                       | <input type="checkbox" /> |
-| 325 | [Is PostMessage secure](#is-postmessage-secure)                                                                                                               | <input type="checkbox" /> |
-| 326 | [What are the problems with postmessage target origin as wildcard](#what-are-the-problems-with-postmessage-target-origin-as-wildcard)                         | <input type="checkbox" /> |
-| 327 | [How do you avoid receiving postMessages from attackers](#how-do-you-avoid-receiving-postmessages-from-attackers)                                             | <input type="checkbox" /> |
-| 328 | [Can I avoid using postMessages completely](#can-i-avoid-using-postmessages-completely)                                                                       | <input type="checkbox" /> |
-| 329 | [Is postMessages synchronous](#is-postmessages-synchronous)                                                                                                   | <input type="checkbox" /> |
-| 330 | [What paradigm is Javascript](#what-paradigm-is-javascript)                                                                                                   | <input type="checkbox" /> |
-| 331 | [What is the difference between internal and external javascript](#what-is-the-difference-between-internal-and-external-javascript)                           | <input type="checkbox" /> |
-| 332 | [Is JavaScript faster than server side script](#is-javascript-faster-than-server-side-script)                                                                 | <input type="checkbox" /> |
-| 333 | [How do you get the status of a checkbox](#how-do-you-get-the-status-of-a-checkbox)                                                                           | <input type="checkbox" /> |
-| 334 | [What is the purpose of double tilde operator](#what-is-the-purpose-of-double-tilde-operator)                                                                 | <input type="checkbox" /> |
-| 335 | [How do you convert character to ASCII code](#how-do-you-convert-character-to-ascii-code)                                                                     | <input type="checkbox" /> |
-| 336 | [What is ArrayBuffer](#what-is-arraybuffer)                                                                                                                   | <input type="checkbox" /> |
-| 337 | [What is the output of below string expression](#what-is-the-output-of-below-string-expression)                                                               | <input type="checkbox" /> |
-| 338 | [What is the purpose of Error object](#what-is-the-purpose-of-error-object)                                                                                   | <input type="checkbox" /> |
-| 339 | [What is the purpose of EvalError object](#what-is-the-purpose-of-evalerror-object)                                                                           | <input type="checkbox" /> |
-| 340 | [What are the list of cases error thrown from non-strict mode to strict mode](#what-are-the-list-of-cases-error-thrown-from-non-strict-mode-to-strict-mode)   | <input type="checkbox" /> |
-| 341 | [Do all objects have prototypes](#do-all-objects-have-prototypes)                                                                                             | <input type="checkbox" /> |
-| 342 | [What is the difference between a parameter and an argument](#what-is-the-difference-between-a-parameter-and-an-argument)                                     | <input type="checkbox" /> |
-| 343 | [What is the purpose of some method in arrays](#what-is-the-purpose-of-some-method-in-arrays)                                                                 | <input type="checkbox" /> |
-| 344 | [How do you combine two or more arrays](#how-do-you-combine-two-or-more-arrays)                                                                               | <input type="checkbox" /> |
-| 345 | [What is the difference between Shallow and Deep copy](#what-is-the-difference-between-shallow-and-deep-copy)                                                 | <input type="checkbox" /> |
-| 346 | [How do you create specific number of copies of a string](#how-do-you-create-specific-number-of-copies-of-a-string)                                           | <input type="checkbox" /> |
-| 347 | [How do you return all matching strings against a regular expression](#how-do-you-return-all-matching-strings-against-a-regular-expression)                   | <input type="checkbox" /> |
-| 348 | [How do you trim a string at the beginning or ending](#how-do-you-trim-a-string-at-the-beginning-or-ending)                                                   | <input type="checkbox" /> |
-| 349 | [What is the output of below console statement with unary operator](#what-is-the-output-of-below-console-statement-with-unary-operator)                       | <input type="checkbox" /> |
-| 350 | [Does javascript uses mixins](#does-javascript-uses-mixins)                                                                                                   | <input type="checkbox" /> |
-| 351 | [What is a thunk function](#what-is-a-thunk-function)                                                                                                         | <input type="checkbox" /> |
-| 352 | [What are asynchronous thunks](#what-are-asynchronous-thunks)                                                                                                 | <input type="checkbox" /> |
-| 353 | [What is the output of below function calls](#what-is-the-output-of-below-function-calls)                                                                     | <input type="checkbox" /> |
-| 354 | [How to remove all line breaks from a string](#how-to-remove-all-line-breaks-from-a-string)                                                                   | <input type="checkbox" /> |
-| 355 | [What is the difference between reflow and repaint](#what-is-the-difference-between-reflow-and-repaint)                                                       | <input type="checkbox" /> |
-| 356 | [What happens with negating an array](#what-happens-with-negating-an-array)                                                                                   | <input type="checkbox" /> |
-| 357 | [What happens if we add two arrays](#what-happens-if-we-add-two-arrays)                                                                                       | <input type="checkbox" /> |
-| 358 | [What is the output of prepend additive operator on falsy values](#what-is-the-output-of-prepend-additive-operator-on-falsy-values)                           | <input type="checkbox" /> |
-| 359 | [How do you create self string using special characters](#how-do-you-create-self-string-using-special-characters)                                             | <input type="checkbox" /> |
-| 360 | [How do you remove falsy values from an array](#how-do-you-remove-falsy-values-from-an-array)                                                                 | <input type="checkbox" /> |
-| 361 | [How do you get unique values of an array](#how-do-you-get-unique-values-of-an-array)                                                                         | <input type="checkbox" /> |
-| 362 | [What is destructuring aliases](#what-is-destructuring-aliases)                                                                                               | <input type="checkbox" /> |
-| 363 | [How do you map the array values without using map method](#how-do-you-map-the-array-values-without-using-map-method)                                         | <input type="checkbox" /> |
-| 364 | [How do you empty an array](#how-do-you-empty-an-array)                                                                                                       | <input type="checkbox" /> |
-| 365 | [How do you rounding numbers to certain decimals](#how-do-you-rounding-numbers-to-certain-decimals)                                                           | <input type="checkbox" /> |
-| 366 | [What is the easiest way to convert an array to an object](#what-is-the-easiest-way-to-convert-an-array-to-an-object)                                         | <input type="checkbox" /> |
-| 367 | [How do you create an array with some data](#how-do-you-create-an-array-with-some-data)                                                                       | <input type="checkbox" /> |
-| 368 | [What are the placeholders from console object](#what-are-the-placeholders-from-console-object)                                                               | <input type="checkbox" /> |
-| 369 | [Is it possible to add CSS to console messages](#is-it-possible-to-add-css-to-console-messages)                                                               | <input type="checkbox" /> |
-| 370 | [What is the purpose of dir method of console object](#what-is-the-purpose-of-dir-method-of-console-object)                                                   | <input type="checkbox" /> |
-| 371 | [Is it possible to debug HTML elements in console](#is-it-possible-to-debug-html-elements-in-console)                                                         | <input type="checkbox" /> |
-| 372 | [How do you display data in a tabular format using console object](#how-do-you-display-data-in-a-tabular-format-using-console-object)                         | <input type="checkbox" /> |
-| 373 | [How do you verify that an argument is a Number or not](#how-do-you-verify-that-an-argument-is-a-number-or-not)                                               | <input type="checkbox" /> |
-| 374 | [How do you create copy to clipboard button](#how-do-you-create-copy-to-clipboard-button)                                                                     | <input type="checkbox" /> |
-| 375 | [What is the shortcut to get timestamp](#what-is-the-shortcut-to-get-timestamp)                                                                               | <input type="checkbox" /> |
-| 376 | [How do you flattening multi dimensional arrays](#how-do-you-flattening-multi-dimensional-arrays)                                                             | <input type="checkbox" /> |
-| 377 | [What is the easiest multi condition checking](#what-is-the-easiest-multi-condition-checking)                                                                 | <input type="checkbox" /> |
-| 378 | [How do you capture browser back button](#how-do-you-capture-browser-back-button)                                                                             | <input type="checkbox" /> |
-| 379 | [How do you disable right click in the web page](#how-do-you-disable-right-click-in-the-web-page)                                                             | <input type="checkbox" /> |
-| 380 | [What are wrapper objects](#what-are-wrapper-objects)                                                                                                         | <input type="checkbox" /> |
-| 381 | [What is AJAX](#what-is-ajax)                                                                                                                                 | <input type="checkbox" /> |
-| 382 | [What are the different ways to deal with Asynchronous Code](#what-are-the-different-ways-to-deal-with-asynchronous-code)                                     | <input type="checkbox" /> |
-| 383 | [How to cancel a fetch request](#how-to-cancel-a-fetch-request)                                                                                               | <input type="checkbox" /> |
-| 384 | [What is web speech API](#what-is-web-speech-api)                                                                                                             | <input type="checkbox" /> |
-| 385 | [What is minimum timeout throttling](#what-is-minimum-timeout-throttling)                                                                                     | <input type="checkbox" /> |
-| 386 | [How do you implement zero timeout in modern browsers](#how-do-you-implement-zero-timeout-in-modern-browsers)                                                 | <input type="checkbox" /> |
-| 387 | [What are tasks in event loop](#what-are-tasks-in-event-loop)                                                                                                 | <input type="checkbox" /> |
-| 388 | [What is microtask](#what-is-microtask)                                                                                                                       | <input type="checkbox" /> |
-| 389 | [What are different event loops](#what-are-different-event-loops)                                                                                             | <input type="checkbox" /> |
-| 390 | [What is the purpose of queueMicrotask](#what-is-the-purpose-of-queuemicrotask)                                                                               | <input type="checkbox" /> |
-| 391 | [How do you use javascript libraries in typescript file](#how-do-you-use-javascript-libraries-in-typescript-file)                                             | <input type="checkbox" /> |
-| 392 | [What are the differences between promises and observables](#what-are-the-differences-between-promises-and-observables)                                       | <input type="checkbox" /> |
-| 393 | [What is heap](#what-is-heap)                                                                                                                                 | <input type="checkbox" /> |
-| 394 | [What is an event table](#what-is-an-event-table)                                                                                                             | <input type="checkbox" /> |
-| 395 | [What is a microTask queue](#what-is-a-microtask-queue)                                                                                                       | <input type="checkbox" /> |
-| 396 | [What is the difference between shim and polyfill](#what-is-the-difference-between-shim-and-polyfill)                                                         | <input type="checkbox" /> |
-| 397 | [How do you detect primitive or non primitive value type](#how-do-you-detect-primitive-or-non-primitive-value-type)                                           | <input type="checkbox" /> |
-| 398 | [What is babel](#what-is-babel)                                                                                                                               | <input type="checkbox" /> |
-| 399 | [Is Node.js completely single threaded](#is-nodejs-completely-single-threaded)                                                                                | <input type="checkbox" /> |
-| 400 | [What are the common use cases of observables](#what-are-the-common-use-cases-of-observables)                                                                 | <input type="checkbox" /> |
-| 401 | [What is RxJS](#what-is-rxjs)                                                                                                                                 | <input type="checkbox" /> |
-| 402 | [What is the difference between Function constructor and function declaration](#what-is-the-difference-between-function-constructor-and-function-declaration) | <input type="checkbox" /> |
-| 403 | [What is a Short circuit condition](#what-is-a-short-circuit-condition)                                                                                       | <input type="checkbox" /> |
-| 404 | [What is the easiest way to resize an array](#what-is-the-easiest-way-to-resize-an-array)                                                                     | <input type="checkbox" /> |
-| 405 | [What is an observable](#what-is-an-observable)                                                                                                               | <input type="checkbox" /> |
-| 406 | [What is the difference between function and class declarations](#what-is-the-difference-between-function-and-class-declarations)                             | <input type="checkbox" /> |
-| 407 | [What is an async function](#what-is-an-async-function)                                                                                                       | <input type="checkbox" /> |
-| 408 | [How do you prevent promises swallowing errors](#how-do-you-prevent-promises-swallowing-errors)                                                               | <input type="checkbox" /> |
-| 409 | [What is deno](#what-is-deno)                                                                                                                                 | <input type="checkbox" /> |
-| 410 | [How do you make an object iterable in javascript](#how-do-you-make-an-object-iterable-in-javascript)                                                         | <input type="checkbox" /> |
-| 411 | [What is a Proper Tail Call](#what-is-a-proper-tail-call)                                                                                                     | <input type="checkbox" /> |
-| 412 | [How do you check an object is a promise or not](#how-do-you-check-an-object-is-a-promise-or-not)                                                             | <input type="checkbox" /> |
-| 413 | [How to detect if a function is called as constructor](#how-to-detect-if-a-function-is-called-as-constructor)                                                 | <input type="checkbox" /> |
-| 414 | [What are the differences between arguments object and rest parameter](#what-are-the-differences-between-arguments-object-and-rest-parameter)                 | <input type="checkbox" /> |
-| 415 | [What are the differences between spread operator and rest parameter](#what-are-the-differences-between-spread-operator-and-rest-parameter)                   | <input type="checkbox" /> |
-| 416 | [What are the different kinds of generators](#what-are-the-different-kinds-of-generators)                                                                     | <input type="checkbox" /> |
-| 417 | [What are the built-in iterables](#what-are-the-built-in-iterables)                                                                                           | <input type="checkbox" /> |
-| 418 | [What are the differences between for...of and for...in statements](#what-are-the-differences-between-forof-and-forin-statements)                             | <input type="checkbox" /> |
-| 419 | [How do you define instance and non-instance properties](#how-do-you-define-instance-and-non-instance-properties)                                             | <input type="checkbox" /> |
-| 420 | [What is the difference between isNaN and Number.isNaN?](#what-is-the-difference-between-isnan-and-numberisnan)                                               | <input type="checkbox" /> |
-| 421 | [How to invoke an IIFE without any extra brackets?](#how-to-invoke-an-iife-without-any-extra-brackets)                                                        | <input type="checkbox" /> |
-| 422 | [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)                                                  | <input type="checkbox" /> |
-| 423 | [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)                                                        | <input type="checkbox" /> |
-| 424 | [How do style the console output using CSS?](#how-do-style-the-console-output-using-css)                                                                      | <input type="checkbox" /> |
-| 425 | [What is nullish coalescing operator (??)?](#what-is-nullish-coalescing-operator)                                                                             | <input type="checkbox" /> |
-| 426 | [How do you group and nest console output?](#how-do-you-group-and-nest-console-output)                                                                        | <input type="checkbox" /> |
-| 427 | [What is the difference between dense and sparse arrays?](#what-is-the-difference-between-dense-and-sparse-arrays)                                            | <input type="checkbox" /> |
-| 428 | [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)                                                  | <input type="checkbox" /> |
-| 429 | [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-settimeout-setimmediate-and-processnexttick)  | <input type="checkbox" /> |
-| 430 | [How do you reverse an array without modifying original array?](#how-do-you-reverse-an-array-without-modifying-original-array)                                | <input type="checkbox" /> |
-| 431 | [How do you create custom HTML element?](#how-do-you-create-custom-html-element)                                                                              | <input type="checkbox" /> |
-| 432 | [What is global execution context?](#what-is-global-execution-context)                                                                                        | <input type="checkbox" /> |
-| 433 | [What is function execution context?](#what-is-function-execution-context)                                                                                    | <input type="checkbox" /> |
-| 434 | [What is debouncing?](#what-is-debouncing)                                                                                                                    | <input type="checkbox" /> |
-| 435 | [What is throttling?](#what-is-throttling)                                                                                                                    | <input type="checkbox" /> |
-| 436 | [What is optional chaining?](#what-is-optional-chaining)                                                                                                      | <input type="checkbox" /> |
-| 437 | [What is an environment record?](#what-is-an-environment-record)                                                                                              | <input type="checkbox" /> |
-| 438 | [What are hidden classes?](#what-are-hidden-classes)                                                                                                          | <input type="checkbox" /> |
-| 439 | [What is inline caching?](#what-is-inline-caching)                                                                                                            | <input type="checkbox" /> |
+| 1   | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript)                                     | <ul><li>[ ] Pending</li></ul> |
+| 2   | [What is prototype chain](#what-is-a-prototype-chain)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 3   | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)                                                    | <ul><li>[ ] Pending</li></ul> |
+| 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 7   | [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 8   | [How do you compare Object and Map](#how-do-you-compare-object-and-map)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 9   | [What is the difference between == and === operators](#what-is-the-difference-between--and--operators)                                                        | <ul><li>[X] Done</li></ul> |
+| 10  | [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 13  | [What is a higher order function](#what-is-a-higher-order-function)                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 14  | [What is a unary function](#what-is-a-unary-function)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 15  | [What is the currying function](#what-is-the-currying-function)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 16  | [What is a pure function](#what-is-a-pure-function)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 17  | [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 18  | [What is the difference between let and var](#what-is-the-difference-between-let-and-var)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 19  | [What is the reason to choose the name let as a keyword](#what-is-the-reason-to-choose-the-name-let-as-a-keyword)                                             | <ul><li>[ ] Pending</li></ul> |
+| 20  | [How do you redeclare variables in switch block without an error](#how-do-you-redeclare-variables-in-switch-block-without-an-error)                           | <ul><li>[ ] Pending</li></ul> |
+| 21  | [What is the Temporal Dead Zone](#what-is-the-temporal-dead-zone)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 22  | [What is IIFE(Immediately Invoked Function Expression)](#what-is-iifeimmediately-invoked-function-expression)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 23  | [How do you decode or encode a URL in JavaScript?](#how-do-you-decode-or-encode-a-url-in-javascript)                                                          | <ul><li>[ ] Pending</li></ul> |
+| 24  | [What is memoization](#what-is-memoization)                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 25  | [What is Hoisting](#what-is-hoisting)                                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 26  | [What are classes in ES6](#what-are-classes-in-es6)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 27  | [What are closures](#what-are-closures)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 28  | [What are modules](#what-are-modules)                                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 29  | [Why do you need modules](#why-do-you-need-modules)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 30  | [What is scope in javascript](#what-is-scope-in-javascript)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 31  | [What is a service worker](#what-is-a-service-worker)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 32  | [How do you manipulate DOM using a service worker](#how-do-you-manipulate-dom-using-a-service-worker)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 33  | [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)                                   | <ul><li>[ ] Pending</li></ul> |
+| 34  | [What is IndexedDB](#what-is-indexeddb)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 35  | [What is web storage](#what-is-web-storage)                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 36  | [What is a post message](#what-is-a-post-message)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 37  | [What is a cookie](#what-is-a-cookie)                                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 38  | [Why do you need a Cookie](#why-do-you-need-a-cookie)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 39  | [What are the options in a cookie](#what-are-the-options-in-a-cookie)                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 40  | [How do you delete a cookie](#how-do-you-delete-a-cookie)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 41  | [What are the differences between cookie, local storage and session storage](#What-are-the-differences-between-cookie-local-storage-and-session-storage)      | <ul><li>[ ] Pending</li></ul> |
+| 42  | [What is the main difference between localStorage and sessionStorage](#what-is-the-main-difference-between-localstorage-and-sessionstorage)                   | <ul><li>[ ] Pending</li></ul> |
+| 43  | [How do you access web storage](#how-do-you-access-web-storage)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 44  | [What are the methods available on session storage](#what-are-the-methods-available-on-session-storage)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 45  | [What is a storage event and its event handler](#what-is-a-storage-event-and-its-event-handler)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 46  | [Why do you need web storage](#why-do-you-need-web-storage)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 47  | [How do you check web storage browser support](#how-do-you-check-web-storage-browser-support)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 48  | [How do you check web workers browser support](#how-do-you-check-web-workers-browser-support)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 49  | [Give an example of a web worker](#give-an-example-of-a-web-worker)                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 50  | [What are the restrictions of web workers on DOM](#what-are-the-restrictions-of-web-workers-on-dom)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 51  | [What is a promise](#what-is-a-promise)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 52  | [Why do you need a promise](#why-do-you-need-a-promise)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 53  | [What are the three states of promise](#what-are-the-three-states-of-promise)                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 54  | [What is a callback function](#what-is-a-callback-function)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 55  | [Why do we need callbacks](#why-do-we-need-callbacks)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 56  | [What is a callback hell](#what-is-a-callback-hell)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 57  | [What are server-sent events](#what-are-server-sent-events)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 58  | [How do you receive server-sent event notifications](#how-do-you-receive-server-sent-event-notifications)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 59  | [How do you check browser support for server-sent events](#how-do-you-check-browser-support-for-server-sent-events)                                           | <ul><li>[ ] Pending</li></ul> |
+| 60  | [What are the events available for server sent events](#what-are-the-events-available-for-server-sent-events)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 61  | [What are the main rules of promise](#what-are-the-main-rules-of-promise)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 62  | [What is callback in callback](#what-is-callback-in-callback)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 63  | [What is promise chaining](#what-is-promise-chaining)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 64  | [What is promise.all](#what-is-promiseall)                                                                                                                    | <ul><li>[ ] Pending</li></ul> |
+| 65  | [What is the purpose of the race method in promise](#what-is-the-purpose-of-the-race-method-in-promise)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 66  | [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 67  | [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 68  | [How do you declare strict mode](#how-do-you-declare-strict-mode)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 69  | [What is the purpose of double exclamation](#what-is-the-purpose-of-double-exclamation)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 70  | [What is the purpose of the delete operator](#what-is-the-purpose-of-the-delete-operator)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 71  | [What is typeof operator](#what-is-typeof-operator)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 72  | [What is undefined property](#what-is-undefined-property)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 73  | [What is null value](#what-is-null-value)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 74  | [What is the difference between null and undefined](#what-is-the-difference-between-null-and-undefined)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 75  | [What is eval](#What-is-eval)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 76  | [What is the difference between window and document](#what-is-the-difference-between-window-and-document)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 77  | [How do you access history in javascript](#how-do-you-access-history-in-javascript)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 78  | [How do you detect caps lock key turned on or not](#how-do-you-detect-caps-lock-key-turned-on-or-not)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 79  | [What is isNaN](#what-is-isnan)                                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 80  | [What are the differences between undeclared and undefined variables](#what-are-the-differences-between-undeclared-and-undefined-variables)                   | <ul><li>[ ] Pending</li></ul> |
+| 81  | [What are global variables](#what-are-global-variables)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 82  | [What are the problems with global variables](#what-are-the-problems-with-global-variables)                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 83  | [What is NaN property](#what-is-nan-property)                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 84  | [What is the purpose of isFinite function](#what-is-the-purpose-of-isfinite-function)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 85  | [What is an event flow](#what-is-an-event-flow)                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 86  | [What is event bubbling](#what-is-event-bubbling)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 87  | [What is event capturing](#what-is-event-capturing)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 88  | [How do you submit a form using JavaScript](#how-do-you-submit-a-form-using-javascript)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 89  | [How do you find operating system details](#how-do-you-find-operating-system-details)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 90  | [What is the difference between document load and DOMContentLoaded events](#what-is-the-difference-between-document-load-and-domcontentloaded-events)         | <ul><li>[ ] Pending</li></ul> |
+| 91  | [What is the difference between native, host and user objects](#what-is-the-difference-between-native-host-and-user-objects)                                  | <ul><li>[ ] Pending</li></ul> |
+| 92  | [What are the tools or techniques used for debugging JavaScript code](#what-are-the-tools-or-techniques-used-for-debugging-javascript-code)                   | <ul><li>[ ] Pending</li></ul> |
+| 93  | [What are the pros and cons of promises over callbacks](#what-are-the-pros-and-cons-of-promises-over-callbacks)                                               | <ul><li>[ ] Pending</li></ul> |
+| 94  | [What is the difference between an attribute and a property](#what-is-the-difference-between-an-attribute-and-a-property)                                     | <ul><li>[ ] Pending</li></ul> |
+| 95  | [What is same-origin policy](#what-is-same-origin-policy)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 96  | [What is the purpose of void 0](#what-is-the-purpose-of-void-0)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 97  | [Is JavaScript a compiled or interpreted language](#is-javascript-a-compiled-or-interpreted-language)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 98  | [Is JavaScript a case-sensitive language](#is-javascript-a-case-sensitive-language)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 99  | [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 100 | [What are events](#what-are-events)                                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 101 | [Who created javascript](#who-created-javascript)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 102 | [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 103 | [What is the use of stopPropagation method](#what-is-the-use-of-stoppropagation-method)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 104 | [What are the steps involved in return false usage](#what-are-the-steps-involved-in-return-false-usage)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 105 | [What is BOM](#what-is-bom)                                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 106 | [What is the use of setTimeout](#what-is-the-use-of-settimeout)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 107 | [What is the use of setInterval](#what-is-the-use-of-setinterval)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 108 | [Why is JavaScript treated as Single threaded](#why-is-javascript-treated-as-single-threaded)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 109 | [What is an event delegation](#what-is-an-event-delegation)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 110 | [What is ECMAScript](#what-is-ecmascript)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 111 | [What is JSON](#what-is-json)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 112 | [What are the syntax rules of JSON](#what-are-the-syntax-rules-of-json)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 113 | [What is the purpose JSON stringify](#what-is-the-purpose-json-stringify)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 114 | [How do you parse JSON string](#how-do-you-parse-json-string)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 115 | [Why do you need JSON](#why-do-you-need-json)                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 116 | [What are PWAs](#what-are-pwas)                                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 117 | [What is the purpose of clearTimeout method](#what-is-the-purpose-of-cleartimeout-method)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 118 | [What is the purpose of clearInterval method](#what-is-the-purpose-of-clearinterval-method)                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 119 | [How do you redirect new page in javascript](#how-do-you-redirect-new-page-in-javascript)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 120 | [How do you check whether a string contains a substring](#how-do-you-check-whether-a-string-contains-a-substring)                                             | <ul><li>[ ] Pending</li></ul> |
+| 121 | [How do you validate an email in javascript](#how-do-you-validate-an-email-in-javascript)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 122 | [How do you get the current url with javascript](#how-do-you-get-the-current-url-with-javascript)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 123 | [What are the various url properties of location object](#what-are-the-various-url-properties-of-location-object)                                             | <ul><li>[ ] Pending</li></ul> |
+| 124 | [How do get query string values in javascript](#how-do-get-query-string-values-in-javascript)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 125 | [How do you check if a key exists in an object](#how-do-you-check-if-a-key-exists-in-an-object)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 126 | [How do you loop through or enumerate javascript object](#how-do-you-loop-through-or-enumerate-javascript-object)                                             | <ul><li>[ ] Pending</li></ul> |
+| 127 | [How do you test for an empty object](#how-do-you-test-for-an-empty-object)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 128 | [What is an arguments object](#what-is-an-arguments-object)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 129 | [How do you make first letter of the string in an uppercase](#how-do-you-make-first-letter-of-the-string-in-an-uppercase)                                     | <ul><li>[ ] Pending</li></ul> |
+| 130 | [What are the pros and cons of for loop](#what-are-the-pros-and-cons-of-for-loop)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 131 | [How do you display the current date in javascript](#how-do-you-display-the-current-date-in-javascript)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 132 | [How do you compare two date objects](#how-do-you-compare-two-date-objects)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 133 | [How do you check if a string starts with another string](#how-do-you-check-if-a-string-starts-with-another-string)                                           | <ul><li>[ ] Pending</li></ul> |
+| 134 | [How do you trim a string in javascript](#how-do-you-trim-a-string-in-javascript)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 135 | [How do you add a key value pair in javascript](#how-do-you-add-a-key-value-pair-in-javascript)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 136 | [Is the '!--' notation represents a special operator](#is-the----notation-represents-a-special-operator)                                                      | <ul><li>[ ] Pending</li></ul> |
+| 137 | [How do you assign default values to variables](#how-do-you-assign-default-values-to-variables)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 138 | [How do you define multiline strings](#how-do-you-define-multiline-strings)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 139 | [What is an app shell model](#what-is-an-app-shell-model)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 140 | [Can we define properties for functions](#can-we-define-properties-for-functions)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 141 | [What is the way to find the number of parameters expected by a function](#what-is-the-way-to-find-the-number-of-parameters-expected-by-a-function)           | <ul><li>[ ] Pending</li></ul> |
+| 142 | [What is a polyfill](#what-is-a-polyfill)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 143 | [What are break and continue statements](#what-are-break-and-continue-statements)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 144 | [What are js labels](#what-are-js-labels)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 145 | [What are the benefits of keeping declarations at the top](#what-are-the-benefits-of-keeping-declarations-at-the-top)                                         | <ul><li>[ ] Pending</li></ul> |
+| 146 | [What are the benefits of initializing variables](#what-are-the-benefits-of-initializing-variables)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 147 | [What are the recommendations to create new object](#what-are-the-recommendations-to-create-new-object)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 148 | [How do you define JSON arrays](#how-do-you-define-json-arrays)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 149 | [How do you generate random integers](#how-do-you-generate-random-integers)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 150 | [Can you write a random integers function to print integers with in a range](#can-you-write-a-random-integers-function-to-print-integers-with-in-a-range)     | <ul><li>[ ] Pending</li></ul> |
+| 151 | [What is tree shaking](#what-is-tree-shaking)                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 152 | [What is the need of tree shaking](#what-is-the-need-of-tree-shaking)                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 153 | [Is it recommended to use eval](#is-it-recommended-to-use-eval)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 154 | [What is a Regular Expression](#what-is-a-regular-expression)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 155 | [What are the string methods available in Regular expression](#what-are-the-string-methods-available-in-regular-expression)                                   | <ul><li>[ ] Pending</li></ul> |
+| 156 | [What are modifiers in regular expression](#what-are-modifiers-in-regular-expression)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 157 | [What are regular expression patterns](#what-are-regular-expression-patterns)                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 158 | [What is a RegExp object](#what-is-a-regexp-object)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 159 | [How do you search a string for a pattern](#how-do-you-search-a-string-for-a-pattern)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 160 | [What is the purpose of exec method](#what-is-the-purpose-of-exec-method)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 161 | [How do you change the style of a HTML element](#how-do-you-change-the-style-of-a-html-element)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 162 | [What would be the result of 1+2+'3'](#what-would-be-the-result-of-123)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 163 | [What is a debugger statement](#what-is-a-debugger-statement)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 164 | [What is the purpose of breakpoints in debugging](#what-is-the-purpose-of-breakpoints-in-debugging)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 165 | [Can I use reserved words as identifiers](#can-i-use-reserved-words-as-identifiers)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 166 | [How do you detect a mobile browser](#how-do-you-detect-a-mobile-browser)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 167 | [How do you detect a mobile browser without regexp](#how-do-you-detect-a-mobile-browser-without-regexp)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 168 | [How do you get the image width and height using JS](#how-do-you-get-the-image-width-and-height-using-js)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 169 | [How do you make synchronous HTTP request](#how-do-you-make-synchronous-http-request)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 170 | [How do you make asynchronous HTTP request](#how-do-you-make-asynchronous-http-request)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 171 | [How do you convert date to another timezone in javascript](#how-do-you-convert-date-to-another-timezone-in-javascript)                                       | <ul><li>[ ] Pending</li></ul> |
+| 172 | [What are the properties used to get size of window](#what-are-the-properties-used-to-get-size-of-window)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 173 | [What is a conditional operator in javascript](#what-is-a-conditional-operator-in-javascript)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 174 | [Can you apply chaining on conditional operator](#Can-you-apply-chaining-on-conditional-operator)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 175 | [What are the ways to execute javascript after page load](#what-are-the-ways-to-execute-javascript-after-page-load)                                           | <ul><li>[ ] Pending</li></ul> |
+| 176 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 177 | [Give an example where do you really need semicolon](#give-an-example-where-do-you-really-need-semicolon)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 178 | [What is a freeze method](#what-is-a-freeze-method)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 179 | [What is the purpose of freeze method](#what-is-the-purpose-of-freeze-method)                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 180 | [Why do I need to use freeze method](#why-do-i-need-to-use-freeze-method)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 181 | [How do you detect a browser language preference](#how-do-you-detect-a-browser-language-preference)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 182 | [How to convert string to title case with javascript](#how-to-convert-string-to-title-case-with-javascript)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 183 | [How do you detect javascript disabled in the page](#how-do-you-detect-javascript-disabled-in-the-page)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 184 | [What are various operators supported by javascript](#what-are-various-operators-supported-by-javascript)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 185 | [What is a rest parameter](#what-is-a-rest-parameter)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 186 | [What happens if you do not use rest parameter as a last argument](#what-happens-if-you-do-not-use-rest-parameter-as-a-last-argument)                         | <ul><li>[ ] Pending</li></ul> |
+| 187 | [What are the bitwise operators available in javascript](#what-are-the-bitwise-operators-available-in-javascript)                                             | <ul><li>[ ] Pending</li></ul> |
+| 188 | [What is a spread operator](#what-is-a-spread-operator)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 189 | [How do you determine whether object is frozen or not](#how-do-you-determine-whether-object-is-frozen-or-not)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 190 | [How do you determine two values same or not using object](#how-do-you-determine-two-values-same-or-not-using-object)                                         | <ul><li>[ ] Pending</li></ul> |
+| 191 | [What is the purpose of using object is method](#what-is-the-purpose-of-using-object-is-method)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 192 | [How do you copy properties from one object to other](#how-do-you-copy-properties-from-one-object-to-other)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 193 | [What are the applications of assign method](#what-are-the-applications-of-assign-method)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 194 | [What is a proxy object](#what-is-a-proxy-object)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 195 | [What is the purpose of seal method](#what-is-the-purpose-of-seal-method)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 196 | [What are the applications of seal method](#what-are-the-applications-of-seal-method)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 197 | [What are the differences between freeze and seal methods](#what-are-the-differences-between-freeze-and-seal-methods)                                         | <ul><li>[ ] Pending</li></ul> |
+| 198 | [How do you determine if an object is sealed or not](#how-do-you-determine-if-an-object-is-sealed-or-not)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 199 | [How do you get enumerable key and value pairs](#how-do-you-get-enumerable-key-and-value-pairs)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 200 | [What is the main difference between Object.values and Object.entries method](#what-is-the-main-difference-between-objectvalues-and-objectentries-method)     | <ul><li>[ ] Pending</li></ul> |
+| 201 | [How can you get the list of keys of any object](#how-can-you-get-the-list-of-keys-of-any-object)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 202 | [How do you create an object with prototype](#how-do-you-create-an-object-with-prototype)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 203 | [What is a WeakSet](#what-is-a-weakset)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 204 | [What are the differences between WeakSet and Set](#what-are-the-differences-between-weakset-and-set)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 205 | [List down the collection of methods available on WeakSet](#list-down-the-collection-of-methods-available-on-weakset)                                         | <ul><li>[ ] Pending</li></ul> |
+| 206 | [What is a WeakMap](#what-is-a-weakmap)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 207 | [What are the differences between WeakMap and Map](#what-are-the-differences-between-weakmap-and-map)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 208 | [List down the collection of methods available on WeakMap](#list-down-the-collection-of-methods-available-on-weakmap)                                         | <ul><li>[ ] Pending</li></ul> |
+| 209 | [What is the purpose of uneval](#what-is-the-purpose-of-uneval)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 210 | [How do you encode an URL](#how-do-you-encode-an-url)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 211 | [How do you decode an URL](#how-do-you-decode-an-url)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 212 | [How do you print the contents of web page](#how-do-you-print-the-contents-of-web-page)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 213 | [What is the difference between uneval and eval](#what-is-the-difference-between-uneval-and-eval)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 214 | [What is an anonymous function](#what-is-an-anonymous-function)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 215 | [What is the precedence order between local and global variables](#what-is-the-precedence-order-between-local-and-global-variables)                           | <ul><li>[ ] Pending</li></ul> |
+| 216 | [What are javascript accessors](#what-are-javascript-accessors)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 217 | [How do you define property on Object constructor](#how-do-you-define-property-on-object-constructor)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 218 | [What is the difference between get and defineProperty](#what-is-the-difference-between-get-and-defineproperty)                                               | <ul><li>[ ] Pending</li></ul> |
+| 219 | [What are the advantages of Getters and Setters](#what-are-the-advantages-of-getters-and-setters)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 220 | [Can I add getters and setters using defineProperty method](#can-i-add-getters-and-setters-using-defineproperty-method)                                       | <ul><li>[ ] Pending</li></ul> |
+| 221 | [What is the purpose of switch-case](#what-is-the-purpose-of-switch-case)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 222 | [What are the conventions to be followed for the usage of switch case](#what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case)                 | <ul><li>[ ] Pending</li></ul> |
+| 223 | [What are primitive data types](#what-are-primitive-data-types)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 224 | [What are the different ways to access object properties](#what-are-the-different-ways-to-access-object-properties)                                           | <ul><li>[ ] Pending</li></ul> |
+| 225 | [What are the function parameter rules](#what-are-the-function-parameter-rules)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 226 | [What is an error object](#what-is-an-error-object)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 227 | [When you get a syntax error](#when-you-get-a-syntax-error)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 228 | [What are the different error names from error object](#what-are-the-different-error-names-from-error-object)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 229 | [What are the various statements in error handling](#what-are-the-various-statements-in-error-handling)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 230 | [What are the two types of loops in javascript](#what-are-the-two-types-of-loops-in-javascript)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 231 | [What is nodejs](#what-is-nodejs)                                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 232 | [What is an Intl object](#what-is-an-intl-object)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 233 | [How do you perform language specific date and time formatting](#how-do-you-perform-language-specific-date-and-time-formatting)                               | <ul><li>[ ] Pending</li></ul> |
+| 234 | [What is an Iterator](#what-is-an-iterator)                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 235 | [How does synchronous iteration works](#how-does-synchronous-iteration-works)                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 236 | [What is an event loop](#what-is-an-event-loop)                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 237 | [What is call stack](#what-is-call-stack)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 238 | [What is an event queue](#what-is-an-event-queue)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 239 | [What is a decorator](#what-is-a-decorator)                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 240 | [What are the properties of Intl object](#what-are-the-properties-of-intl-object)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 241 | [What is an Unary operator](#what-is-an-unary-operator)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 242 | [How do you sort elements in an array](#how-do-you-sort-elements-in-an-array)                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 243 | [What is the purpose of compareFunction while sorting arrays](#what-is-the-purpose-of-comparefunction-while-sorting-arrays)                                   | <ul><li>[ ] Pending</li></ul> |
+| 244 | [How do you reversing an array](#how-do-you-reversing-an-array)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 245 | [How do you find min and max value in an array](#how-do-you-find-min-and-max-value-in-an-array)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 246 | [How do you find min and max values without Math functions](#how-do-you-find-min-and-max-values-without-math-functions)                                       | <ul><li>[ ] Pending</li></ul> |
+| 247 | [What is an empty statement and purpose of it](#what-is-an-empty-statement-and-purpose-of-it)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 248 | [How do you get metadata of a module](#how-do-you-get-metadata-of-a-module)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 249 | [What is a comma operator](#what-is-a-comma-operator)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 250 | [What is the advantage of a comma operator](#what-is-the-advantage-of-a-comma-operator)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 251 | [What is typescript](#what-is-typescript)                                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 252 | [What are the differences between javascript and typescript](#what-are-the-differences-between-javascript-and-typescript)                                     | <ul><li>[ ] Pending</li></ul> |
+| 253 | [What are the advantages of typescript over javascript](#what-are-the-advantages-of-typescript-over-javascript)                                               | <ul><li>[ ] Pending</li></ul> |
+| 254 | [What is an object initializer](#what-is-an-object-initializer)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 255 | [What is a constructor method](#what-is-a-constructor-method)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 256 | [What happens if you write constructor more than once in a class](#what-happens-if-you-write-constructor-more-than-once-in-a-class)                           | <ul><li>[ ] Pending</li></ul> |
+| 257 | [How do you call the constructor of a parent class](#how-do-you-call-the-constructor-of-a-parent-class)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 258 | [How do you get the prototype of an object](#how-do-you-get-the-prototype-of-an-object)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 259 | [What happens If I pass string type for getPrototype method](#what-happens-if-i-pass-string-type-for-getprototype-method)                                     | <ul><li>[ ] Pending</li></ul> |
+| 260 | [How do you set prototype of one object to another](#how-do-you-set-prototype-of-one-object-to-another)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 261 | [How do you check whether an object can be extendable or not](#how-do-you-check-whether-an-object-can-be-extendable-or-not)                                   | <ul><li>[ ] Pending</li></ul> |
+| 262 | [How do you prevent an object to extend](#how-do-you-prevent-an-object-to-extend)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 263 | [What are the different ways to make an object non-extensible](#what-are-the-different-ways-to-make-an-object-non-extensible)                                 | <ul><li>[ ] Pending</li></ul> |
+| 264 | [How do you define multiple properties on an object](#how-do-you-define-multiple-properties-on-an-object)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 265 | [What is MEAN in javascript](#what-is-mean-in-javascript)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 266 | [What Is Obfuscation in javascript](#what-is-obfuscation-in-javascript)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 267 | [Why do you need Obfuscation](#why-do-you-need-obfuscation)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 268 | [What is Minification](#what-is-minification)                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 269 | [What are the advantages of minification](#what-are-the-advantages-of-minification)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 270 | [What are the differences between Obfuscation and Encryption](#what-are-the-differences-between-obfuscation-and-encryption)                                   | <ul><li>[ ] Pending</li></ul> |
+| 271 | [What are the common tools used for minification](#what-are-the-common-tools-used-for-minification)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 272 | [How do you perform form validation using javascript](#how-do-you-perform-form-validation-using-javascript)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 273 | [How do you perform form validation without javascript](#how-do-you-perform-form-validation-without-javascript)                                               | <ul><li>[ ] Pending</li></ul> |
+| 274 | [What are the DOM methods available for constraint validation](#what-are-the-dom-methods-available-for-constraint-validation)                                 | <ul><li>[ ] Pending</li></ul> |
+| 275 | [What are the available constraint validation DOM properties](#what-are-the-available-constraint-validation-dom-properties)                                   | <ul><li>[ ] Pending</li></ul> |
+| 276 | [What are the list of validity properties](#what-are-the-list-of-validity-properties)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 277 | [Give an example usage of rangeOverflow property](#give-an-example-usage-of-rangeoverflow-property)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 278 | [Is enums feature available in javascript](#is-enums-feature-available-in-javascript)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 279 | [What is an enum](#What-is-an-enum)                                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 280 | [How do you list all properties of an object](#how-do-you-list-all-properties-of-an-object)                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 281 | [How do you get property descriptors of an object](#how-do-you-get-property-descriptors-of-an-object)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 282 | [What are the attributes provided by a property descriptor](#what-are-the-attributes-provided-by-a-property-descriptor)                                       | <ul><li>[ ] Pending</li></ul> |
+| 283 | [How do you extend classes](#how-do-you-extend-classes)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 284 | [How do I modify the url without reloading the page](#how-do-i-modify-the-url-without-reloading-the-page)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 285 | [How do you check whether an array includes a particular value or not](#how-do-you-check-whether-an-array-includes-a-particular-value-or-not)                 | <ul><li>[ ] Pending</li></ul> |
+| 286 | [How do you compare scalar arrays](#how-do-you-compare-scalar-arrays)                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 287 | [How to get the value from get parameters](#how-to-get-the-value-from-get-parameters)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 288 | [How do you print numbers with commas as thousand separators](#how-do-you-print-numbers-with-commas-as-thousand-separators)                                   | <ul><li>[ ] Pending</li></ul> |
+| 289 | [What is the difference between java and javascript](#what-is-the-difference-between-java-and-javascript)                                                     | <ul><li>[ ] Pending</li></ul> |
+| 290 | [Does javascript supports namespace](#does-javascript-supports-namespace)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 291 | [How do you declare namespace](#how-do-you-declare-namespace)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 292 | [How do you invoke javascript code in an iframe from parent page](#how-do-you-invoke-javascript-code-in-an-iframe-from-parent-page)                           | <ul><li>[ ] Pending</li></ul> |
+| 293 | [How do get the timezone offset from date](#how-do-get-the-timezone-offset-from-date)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 294 | [How do you load CSS and JS files dynamically](#how-do-you-load-css-and-js-files-dynamically)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 295 | [What are the different methods to find HTML elements in DOM](#what-are-the-different-methods-to-find-html-elements-in-dom)                                   | <ul><li>[ ] Pending</li></ul> |
+| 296 | [What is jQuery](#what-is-jquery)                                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 297 | [What is V8 JavaScript engine](#what-is-v8-javascript-engine)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 298 | [Why do we call javascript as dynamic language](#why-do-we-call-javascript-as-dynamic-language)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 299 | [What is a void operator](#what-is-a-void-operator)                                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 300 | [How to set the cursor to wait](#how-to-set-the-cursor-to-wait)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 301 | [How do you create an infinite loop](#how-do-you-create-an-infinite-loop)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 302 | [Why do you need to avoid with statement](#why-do-you-need-to-avoid-with-statement)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 303 | [What is the output of below for loops](#what-is-the-output-of-below-for-loops)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 304 | [List down some of the features of ES6](#list-down-some-of-the-features-of-es6)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 305 | [What is ES6](#what-is-es6)                                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 306 | [Can I redeclare let and const variables](#can-I-redeclare-let-and-const-variables)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 307 | [Is const variable makes the value immutable](#is-const-variable-makes-the-value-immutable)                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 308 | [What are default parameters](#what-are-default-parameters)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 309 | [What are template literals](#what-are-template-literals)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 310 | [How do you write multi-line strings in template literals](#how-do-you-write-multi-line-strings-in-template-literals)                                         | <ul><li>[ ] Pending</li></ul> |
+| 311 | [What are nesting templates](#what-are-nesting-templates)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 312 | [What are tagged templates](#what-are-tagged-templates)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 313 | [What are raw strings](#what-are-raw-strings)                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 314 | [What is destructuring assignment](#what-is-destructuring-assignment)                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 315 | [What are default values in destructuring assignment](#what-are-default-values-in-destructuring-assignment)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 316 | [How do you swap variables in destructuring assignment](#how-do-you-swap-variables-in-destructuring-assignment)                                               | <ul><li>[ ] Pending</li></ul> |
+| 317 | [What are enhanced object literals](#what-are-enhanced-object-literals)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 318 | [What are dynamic imports](#what-are-dynamic-imports)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 319 | [What are the use cases for dynamic imports](#what-are-the-use-cases-for-dynamic-imports)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 320 | [What are typed arrays](#what-are-typed-arrays)                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 321 | [What are the advantages of module loaders](#what-are-the-advantages-of-module-loaders)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 322 | [What is collation](#what-is-collation)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 323 | [What is for...of statement](#what-is-forof-statement)                                                                                                        | <ul><li>[ ] Pending</li></ul> |
+| 324 | [What is the output of below spread operator array](#what-is-the-output-of-below-spread-operator-array)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 325 | [Is PostMessage secure](#is-postmessage-secure)                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 326 | [What are the problems with postmessage target origin as wildcard](#what-are-the-problems-with-postmessage-target-origin-as-wildcard)                         | <ul><li>[ ] Pending</li></ul> |
+| 327 | [How do you avoid receiving postMessages from attackers](#how-do-you-avoid-receiving-postmessages-from-attackers)                                             | <ul><li>[ ] Pending</li></ul> |
+| 328 | [Can I avoid using postMessages completely](#can-i-avoid-using-postmessages-completely)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 329 | [Is postMessages synchronous](#is-postmessages-synchronous)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 330 | [What paradigm is Javascript](#what-paradigm-is-javascript)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 331 | [What is the difference between internal and external javascript](#what-is-the-difference-between-internal-and-external-javascript)                           | <ul><li>[ ] Pending</li></ul> |
+| 332 | [Is JavaScript faster than server side script](#is-javascript-faster-than-server-side-script)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 333 | [How do you get the status of a checkbox](#how-do-you-get-the-status-of-a-checkbox)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 334 | [What is the purpose of double tilde operator](#what-is-the-purpose-of-double-tilde-operator)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 335 | [How do you convert character to ASCII code](#how-do-you-convert-character-to-ascii-code)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 336 | [What is ArrayBuffer](#what-is-arraybuffer)                                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 337 | [What is the output of below string expression](#what-is-the-output-of-below-string-expression)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 338 | [What is the purpose of Error object](#what-is-the-purpose-of-error-object)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 339 | [What is the purpose of EvalError object](#what-is-the-purpose-of-evalerror-object)                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 340 | [What are the list of cases error thrown from non-strict mode to strict mode](#what-are-the-list-of-cases-error-thrown-from-non-strict-mode-to-strict-mode)   | <ul><li>[ ] Pending</li></ul> |
+| 341 | [Do all objects have prototypes](#do-all-objects-have-prototypes)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 342 | [What is the difference between a parameter and an argument](#what-is-the-difference-between-a-parameter-and-an-argument)                                     | <ul><li>[ ] Pending</li></ul> |
+| 343 | [What is the purpose of some method in arrays](#what-is-the-purpose-of-some-method-in-arrays)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 344 | [How do you combine two or more arrays](#how-do-you-combine-two-or-more-arrays)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 345 | [What is the difference between Shallow and Deep copy](#what-is-the-difference-between-shallow-and-deep-copy)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 346 | [How do you create specific number of copies of a string](#how-do-you-create-specific-number-of-copies-of-a-string)                                           | <ul><li>[ ] Pending</li></ul> |
+| 347 | [How do you return all matching strings against a regular expression](#how-do-you-return-all-matching-strings-against-a-regular-expression)                   | <ul><li>[ ] Pending</li></ul> |
+| 348 | [How do you trim a string at the beginning or ending](#how-do-you-trim-a-string-at-the-beginning-or-ending)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 349 | [What is the output of below console statement with unary operator](#what-is-the-output-of-below-console-statement-with-unary-operator)                       | <ul><li>[ ] Pending</li></ul> |
+| 350 | [Does javascript uses mixins](#does-javascript-uses-mixins)                                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 351 | [What is a thunk function](#what-is-a-thunk-function)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 352 | [What are asynchronous thunks](#what-are-asynchronous-thunks)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 353 | [What is the output of below function calls](#what-is-the-output-of-below-function-calls)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 354 | [How to remove all line breaks from a string](#how-to-remove-all-line-breaks-from-a-string)                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 355 | [What is the difference between reflow and repaint](#what-is-the-difference-between-reflow-and-repaint)                                                       | <ul><li>[ ] Pending</li></ul> |
+| 356 | [What happens with negating an array](#what-happens-with-negating-an-array)                                                                                   | <ul><li>[ ] Pending</li></ul> |
+| 357 | [What happens if we add two arrays](#what-happens-if-we-add-two-arrays)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 358 | [What is the output of prepend additive operator on falsy values](#what-is-the-output-of-prepend-additive-operator-on-falsy-values)                           | <ul><li>[ ] Pending</li></ul> |
+| 359 | [How do you create self string using special characters](#how-do-you-create-self-string-using-special-characters)                                             | <ul><li>[ ] Pending</li></ul> |
+| 360 | [How do you remove falsy values from an array](#how-do-you-remove-falsy-values-from-an-array)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 361 | [How do you get unique values of an array](#how-do-you-get-unique-values-of-an-array)                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 362 | [What is destructuring aliases](#what-is-destructuring-aliases)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 363 | [How do you map the array values without using map method](#how-do-you-map-the-array-values-without-using-map-method)                                         | <ul><li>[ ] Pending</li></ul> |
+| 364 | [How do you empty an array](#how-do-you-empty-an-array)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 365 | [How do you rounding numbers to certain decimals](#how-do-you-rounding-numbers-to-certain-decimals)                                                           | <ul><li>[ ] Pending</li></ul> |
+| 366 | [What is the easiest way to convert an array to an object](#what-is-the-easiest-way-to-convert-an-array-to-an-object)                                         | <ul><li>[ ] Pending</li></ul> |
+| 367 | [How do you create an array with some data](#how-do-you-create-an-array-with-some-data)                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 368 | [What are the placeholders from console object](#what-are-the-placeholders-from-console-object)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 369 | [Is it possible to add CSS to console messages](#is-it-possible-to-add-css-to-console-messages)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 370 | [What is the purpose of dir method of console object](#what-is-the-purpose-of-dir-method-of-console-object)                                                   | <ul><li>[ ] Pending</li></ul> |
+| 371 | [Is it possible to debug HTML elements in console](#is-it-possible-to-debug-html-elements-in-console)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 372 | [How do you display data in a tabular format using console object](#how-do-you-display-data-in-a-tabular-format-using-console-object)                         | <ul><li>[ ] Pending</li></ul> |
+| 373 | [How do you verify that an argument is a Number or not](#how-do-you-verify-that-an-argument-is-a-number-or-not)                                               | <ul><li>[ ] Pending</li></ul> |
+| 374 | [How do you create copy to clipboard button](#how-do-you-create-copy-to-clipboard-button)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 375 | [What is the shortcut to get timestamp](#what-is-the-shortcut-to-get-timestamp)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 376 | [How do you flattening multi dimensional arrays](#how-do-you-flattening-multi-dimensional-arrays)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 377 | [What is the easiest multi condition checking](#what-is-the-easiest-multi-condition-checking)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 378 | [How do you capture browser back button](#how-do-you-capture-browser-back-button)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 379 | [How do you disable right click in the web page](#how-do-you-disable-right-click-in-the-web-page)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 380 | [What are wrapper objects](#what-are-wrapper-objects)                                                                                                         | <ul><li>[ ] Pending</li></ul> |
+| 381 | [What is AJAX](#what-is-ajax)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 382 | [What are the different ways to deal with Asynchronous Code](#what-are-the-different-ways-to-deal-with-asynchronous-code)                                     | <ul><li>[ ] Pending</li></ul> |
+| 383 | [How to cancel a fetch request](#how-to-cancel-a-fetch-request)                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 384 | [What is web speech API](#what-is-web-speech-api)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 385 | [What is minimum timeout throttling](#what-is-minimum-timeout-throttling)                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 386 | [How do you implement zero timeout in modern browsers](#how-do-you-implement-zero-timeout-in-modern-browsers)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 387 | [What are tasks in event loop](#what-are-tasks-in-event-loop)                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 388 | [What is microtask](#what-is-microtask)                                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 389 | [What are different event loops](#what-are-different-event-loops)                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 390 | [What is the purpose of queueMicrotask](#what-is-the-purpose-of-queuemicrotask)                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 391 | [How do you use javascript libraries in typescript file](#how-do-you-use-javascript-libraries-in-typescript-file)                                             | <ul><li>[ ] Pending</li></ul> |
+| 392 | [What are the differences between promises and observables](#what-are-the-differences-between-promises-and-observables)                                       | <ul><li>[ ] Pending</li></ul> |
+| 393 | [What is heap](#what-is-heap)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 394 | [What is an event table](#what-is-an-event-table)                                                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 395 | [What is a microTask queue](#what-is-a-microtask-queue)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 396 | [What is the difference between shim and polyfill](#what-is-the-difference-between-shim-and-polyfill)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 397 | [How do you detect primitive or non primitive value type](#how-do-you-detect-primitive-or-non-primitive-value-type)                                           | <ul><li>[ ] Pending</li></ul> |
+| 398 | [What is babel](#what-is-babel)                                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 399 | [Is Node.js completely single threaded](#is-nodejs-completely-single-threaded)                                                                                | <ul><li>[ ] Pending</li></ul> |
+| 400 | [What are the common use cases of observables](#what-are-the-common-use-cases-of-observables)                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 401 | [What is RxJS](#what-is-rxjs)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 402 | [What is the difference between Function constructor and function declaration](#what-is-the-difference-between-function-constructor-and-function-declaration) | <ul><li>[ ] Pending</li></ul> |
+| 403 | [What is a Short circuit condition](#what-is-a-short-circuit-condition)                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 404 | [What is the easiest way to resize an array](#what-is-the-easiest-way-to-resize-an-array)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 405 | [What is an observable](#what-is-an-observable)                                                                                                               | <ul><li>[ ] Pending</li></ul> |
+| 406 | [What is the difference between function and class declarations](#what-is-the-difference-between-function-and-class-declarations)                             | <ul><li>[ ] Pending</li></ul> |
+| 407 | [What is an async function](#what-is-an-async-function)                                                                                                       | <ul><li>[ ] Pending</li></ul> |
+| 408 | [How do you prevent promises swallowing errors](#how-do-you-prevent-promises-swallowing-errors)                                                               | <ul><li>[ ] Pending</li></ul> |
+| 409 | [What is deno](#what-is-deno)                                                                                                                                 | <ul><li>[ ] Pending</li></ul> |
+| 410 | [How do you make an object iterable in javascript](#how-do-you-make-an-object-iterable-in-javascript)                                                         | <ul><li>[ ] Pending</li></ul> |
+| 411 | [What is a Proper Tail Call](#what-is-a-proper-tail-call)                                                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 412 | [How do you check an object is a promise or not](#how-do-you-check-an-object-is-a-promise-or-not)                                                             | <ul><li>[ ] Pending</li></ul> |
+| 413 | [How to detect if a function is called as constructor](#how-to-detect-if-a-function-is-called-as-constructor)                                                 | <ul><li>[ ] Pending</li></ul> |
+| 414 | [What are the differences between arguments object and rest parameter](#what-are-the-differences-between-arguments-object-and-rest-parameter)                 | <ul><li>[ ] Pending</li></ul> |
+| 415 | [What are the differences between spread operator and rest parameter](#what-are-the-differences-between-spread-operator-and-rest-parameter)                   | <ul><li>[ ] Pending</li></ul> |
+| 416 | [What are the different kinds of generators](#what-are-the-different-kinds-of-generators)                                                                     | <ul><li>[ ] Pending</li></ul> |
+| 417 | [What are the built-in iterables](#what-are-the-built-in-iterables)                                                                                           | <ul><li>[ ] Pending</li></ul> |
+| 418 | [What are the differences between for...of and for...in statements](#what-are-the-differences-between-forof-and-forin-statements)                             | <ul><li>[ ] Pending</li></ul> |
+| 419 | [How do you define instance and non-instance properties](#how-do-you-define-instance-and-non-instance-properties)                                             | <ul><li>[ ] Pending</li></ul> |
+| 420 | [What is the difference between isNaN and Number.isNaN?](#what-is-the-difference-between-isnan-and-numberisnan)                                               | <ul><li>[ ] Pending</li></ul> |
+| 421 | [How to invoke an IIFE without any extra brackets?](#how-to-invoke-an-iife-without-any-extra-brackets)                                                        | <ul><li>[ ] Pending</li></ul> |
+| 422 | [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)                                                  | <ul><li>[ ] Pending</li></ul> |
+| 423 | [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)                                                        | <ul><li>[ ] Pending</li></ul> |
+| 424 | [How do style the console output using CSS?](#how-do-style-the-console-output-using-css)                                                                      | <ul><li>[ ] Pending</li></ul> |
+| 425 | [What is nullish coalescing operator (??)?](#what-is-nullish-coalescing-operator)                                                                             | <ul><li>[ ] Pending</li></ul> |
+| 426 | [How do you group and nest console output?](#how-do-you-group-and-nest-console-output)                                                                        | <ul><li>[ ] Pending</li></ul> |
+| 427 | [What is the difference between dense and sparse arrays?](#what-is-the-difference-between-dense-and-sparse-arrays)                                            | <ul><li>[ ] Pending</li></ul> |
+| 428 | [What are the different ways to create sparse arrays?](#what-are-the-different-ways-to-create-sparse-arrays)                                                  | <ul><li>[ ] Pending</li></ul> |
+| 429 | [What is the difference between setTimeout, setImmediate and process.nextTick?](#what-is-the-difference-between-settimeout-setimmediate-and-processnexttick)  | <ul><li>[ ] Pending</li></ul> |
+| 430 | [How do you reverse an array without modifying original array?](#how-do-you-reverse-an-array-without-modifying-original-array)                                | <ul><li>[ ] Pending</li></ul> |
+| 431 | [How do you create custom HTML element?](#how-do-you-create-custom-html-element)                                                                              | <ul><li>[ ] Pending</li></ul> |
+| 432 | [What is global execution context?](#what-is-global-execution-context)                                                                                        | <ul><li>[ ] Pending</li></ul> |
+| 433 | [What is function execution context?](#what-is-function-execution-context)                                                                                    | <ul><li>[ ] Pending</li></ul> |
+| 434 | [What is debouncing?](#what-is-debouncing)                                                                                                                    | <ul><li>[ ] Pending</li></ul> |
+| 435 | [What is throttling?](#what-is-throttling)                                                                                                                    | <ul><li>[ ] Pending</li></ul> |
+| 436 | [What is optional chaining?](#what-is-optional-chaining)                                                                                                      | <ul><li>[ ] Pending</li></ul> |
+| 437 | [What is an environment record?](#what-is-an-environment-record)                                                                                              | <ul><li>[ ] Pending</li></ul> |
+| 438 | [What are hidden classes?](#what-are-hidden-classes)                                                                                                          | <ul><li>[ ] Pending</li></ul> |
+| 439 | [What is inline caching?](#what-is-inline-caching)                                                                                                            | <ul><li>[ ] Pending</li></ul> |
 
 1. ### What are the possible ways to create objects in JavaScript
 
